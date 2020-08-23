@@ -14,20 +14,20 @@ image:
 
 ## Preprint
 
-Cappai, F; Amadeu, RR; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-Resolution Linkage Map and QTL Analyses for Machine Harvest Traits in Autotetraploid Blueberry](https://www.biorxiv.org/content/10.1101/2020.05.13.093633v1). 
+- Cappai, F; Amadeu, RR; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-Resolution Linkage Map and QTL Analyses for Machine Harvest Traits in Autotetraploid Blueberry](https://www.biorxiv.org/content/10.1101/2020.05.13.093633v1). 
 ## Articles
 
 ### 2020
 
-Carvalho, HF; Galli, G; **Ferrão, LFV**; Nonato, JVA; Padilha, L; Maluf, MP; Resende Jr, MFR; Guerreiro Filho, O; Fritsche-Neto, R. [The effect of bienniality on genomic prediction of yield in arabica coffee](https://link.springer.com/article/10.1007/s10681-020-02641-7). Euphytica, 2020\\
+- Carvalho, HF; Galli, G; **Ferrão, LFV**; Nonato, JVA; Padilha, L; Maluf, MP; Resende Jr, MFR; Guerreiro Filho, O; Fritsche-Neto, R. [The effect of bienniality on genomic prediction of yield in arabica coffee](https://link.springer.com/article/10.1007/s10681-020-02641-7). Euphytica, 2020\\
 
-Oliveira,AA;  Resende Jr, MFR; **Ferrão, LFV**; Amadeu,RR;  Guimarães, LJM;  Guimarães,CT; Pastina, MM; Margarido, GRA.[Genomic prediction applied to multiple traits and environments in second season maize hybrids](https://www.nature.com/articles/s41437-020-0321-0). Heredity, 2020\\
+- Oliveira,AA;  Resende Jr, MFR; **Ferrão, LFV**; Amadeu,RR;  Guimarães, LJM;  Guimarães,CT; Pastina, MM; Margarido, GRA.[Genomic prediction applied to multiple traits and environments in second season maize hybrids](https://www.nature.com/articles/s41437-020-0321-0). Heredity, 2020\\
 
-**Ferrão, LFV**; Marinho, CD; Munoz, PR; Resende Jr, MFR. [Improvement of predictive ability in maize hybrids by including dominance effects and marker × environment models](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/csc2.20096). Crop Science, 2020.\\
+- **Ferrão, LFV**; Marinho, CD; Munoz, PR; Resende Jr, MFR. [Improvement of predictive ability in maize hybrids by including dominance effects and marker × environment models](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/csc2.20096). Crop Science, 2020.\\
 
-**Ferrão, LFV**; Johnson, TS; Benevenuto, J; Edger, PP;  Colquhoun, TA;  Munoz, PR. [Genome‐wide association of volatiles reveals candidate loci for blueberry flavor](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16459#.XjRc6gCExzk.twitter). New Phytologist, 2020.
+- **Ferrão, LFV**; Johnson, TS; Benevenuto, J; Edger, PP;  Colquhoun, TA;  Munoz, PR. [Genome‐wide association of volatiles reveals candidate loci for blueberry flavor](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16459#.XjRc6gCExzk.twitter). New Phytologist, 2020.
 
-Zingaretti, LM; Gezan, SG; **Ferrão, LFV**; Osorio, LF; Monfort, A; Munoz, PR; Whitaker, V; and Perez-Enciso, M. [Exploring deep learning for complex trait genomic prediction in polyploid outcrossing species](https://www.frontiersin.org/articles/10.3389/fpls.2020.00025/abstract). Frontiers in Plant Science, 2020 
+- Zingaretti, LM; Gezan, SG; **Ferrão, LFV**; Osorio, LF; Monfort, A; Munoz, PR; Whitaker, V; and Perez-Enciso, M. [Exploring deep learning for complex trait genomic prediction in polyploid outcrossing species](https://www.frontiersin.org/articles/10.3389/fpls.2020.00025/abstract). Frontiers in Plant Science, 2020 
 
 
 ### 2019
