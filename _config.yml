@@ -1,4 +1,4 @@
-title:            Felipe Test
+title:            Welcome !!
 description:      description
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              https://statgen-esalq.github.io
@@ -34,10 +34,10 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
+ # - title: About
+ #   url: /about/
+ # - title: Posts
+ #   url: /posts/
 #  - title: Theme Setup
 #    url: /theme-setup/
 #  - title: Made Mistakes
