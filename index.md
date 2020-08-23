@@ -6,7 +6,7 @@ tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
 image:
-  feature: uf2.png
+  feature: uf_tmp.png
   #thumb: LogoIconBlack.jpg
 
 ---
