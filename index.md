@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /
 title: About the Lab
 tagline: What we are doing
 tags: [about, statgen]
