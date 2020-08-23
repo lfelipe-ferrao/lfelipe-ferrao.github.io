@@ -21,3 +21,4 @@ My name is Luis Felipe Ventorim Ferrão and I'm a research Assistant Scientist a
 * Genetic of Polyploids
 * Statistical Genetics
 * Bayesian Analysis
+* Blueberry 
