@@ -5,9 +5,9 @@ title: About me
 tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
-#image:
-#  feature: LogoFundoAzul.jpg
-#  thumb: LogoIconBlack.jpg
+image:
+  feature: bitman.png
+  #thumb: LogoIconBlack.jpg
 
 ---
 
