@@ -6,7 +6,7 @@ tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
 image:
-  feature: bitmap.png
+  feature: bitmap1.png
   #thumb: LogoIconBlack.jpg
 
 ---
