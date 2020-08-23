@@ -5,9 +5,9 @@ title: Contact information
 tagline: How to find us
 tags: [contact, statgen]
 modified: 14-6-2014
-image:
-  feature: LogoFundoTransp.png
-  thumb: LogoIconBlack.jpg
+#image:
+#  feature: LogoFundoTransp.png
+#  thumb: LogoIconBlack.jpg
 
 ---
 
