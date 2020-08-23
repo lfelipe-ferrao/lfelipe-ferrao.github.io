@@ -1,14 +1,7 @@
 ---
-layout: page
-permalink: /about/
-title: About the Lab
-tagline: What we are doing
-tags: [about, statgen]
-modified: 11-6-2014
-image:
-  feature: LogoFundoAzul.jpg
-  thumb: LogoIconBlack.jpg
-
+layout: home
+author_profile: true
+permanentlink: /_pages/about.md
 ---
 
 Personal website bla bla bla
