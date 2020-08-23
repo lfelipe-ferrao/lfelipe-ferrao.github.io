@@ -8,13 +8,13 @@ owner:
   name:           Personal Website
   avatar:        felipe.jpg
   bio:            "University of Florida"
-  email:          aafgarci@gmail.com
+  email:          lfelipe.ferrao@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: aafgarci       
-  facebook: groups/611026095639818/      
-  github: statgen-esalq/statgen-esalq.github.io         
+  twitter: lfelipeferrao       
+  #facebook: groups/611026095639818/      
+  github: lfelipe-ferrao/lfelipe-ferrao.github.io         
   stackoverflow: 
-  linkedin: http://www.linkedin.com/groups/Statistical-Genetics-Laboratory-8124864/about
+  linkedin: 
   instagram:      
   lastfm:         
   tumblr: 
@@ -23,7 +23,7 @@ owner:
   steam: 
   dribbble: 
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: https://plus.google.com/u/0/communities/103592582757513673768
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-51935714-1  
