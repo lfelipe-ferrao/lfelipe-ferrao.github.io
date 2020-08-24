@@ -14,7 +14,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ### Fall 2018
 
-- [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.html)
+- [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.md)
 
 ### Fall 2017
 
