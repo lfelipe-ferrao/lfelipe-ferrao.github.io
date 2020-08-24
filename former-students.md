@@ -13,7 +13,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 
 
-- **2020-present**:  Research Assistant Scientist, Blueberry Breeding and Genomics Lab, UF|IFAS, USA 
+- **2020-present**:  Research Assistant Scientist, Blueberry Breeding and Genomics Lab, UF/IFAS, USA 
 
 - **2017-2020:** Postdoctoral Associate at [Blueberry Breeding and Genomics Lab](https://www.blueberrybreeding.com/), University of Florida, USA. Supervisor:Patricio Munoz 
 
