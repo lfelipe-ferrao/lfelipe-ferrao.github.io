@@ -60,7 +60,7 @@ links:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Sao_Paulo
+timezone:    America/New_York
 future:      true
 pygments:    true
 markdown:    kramdown
