@@ -16,12 +16,15 @@ You can read more about my work on this webpage and also see codes, papers and t
 
 ### Some research topics:
 
+- Statistical Genetics
 - Computing for Statistical Genetics
 - Association Mapping
 - Genomic Selection
+- QTL mapping
 - Genetic of Polyploids
-- Bayesian approaches
-- Genomics
+- Bayesian Inference
+- Genomics and Bioinformatic
+- Metabolomics
 - Blueberry Breeding
 
 ### External Links
