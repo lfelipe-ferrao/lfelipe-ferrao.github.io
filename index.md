@@ -16,9 +16,9 @@ You can read more about my work on this webpage and also see codes, papers and t
 
 ### Education
 
-- **2020-present**:  Research Assistant Scientist, Blueberry Breeding and Genomics Lab, UF|IFAS, USA <img src="{{ site.url }}/images/uf1.png" width="120">{: .image-pull-right}
+- **2020-present**:  Research Assistant Scientist, Blueberry Breeding and Genomics Lab, UF|IFAS, USA 
 
--**2017-2020:** Postdoctoral Associate at Blueberry Breeding and Genomics Lab, University of Florida, USA. Supervisor:Patricio Munoz <img src="{{ site.url }}/images/uf1.png" width="120">{: .image-pull-right}
+-**2017-2020:** Postdoctoral Associate at Blueberry Breeding and Genomics Lab, University of Florida, USA. Supervisor:Patricio Munoz 
 
 - **2013:2017:** Ph.D in Genetics and Plant Breeding, Department of Genetics, “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP), Brazil. Supervisor: Antonio Augusto Franco Garcia
 
