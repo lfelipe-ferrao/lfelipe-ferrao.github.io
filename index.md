@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: About me
+title: Research Assistant Scientist
 tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
@@ -11,14 +11,8 @@ image:
 
 ---
 
-
-### Research Assistant Scientist
-- Blueberry Breeding and Genomics
-- Horticultural Science Department
-- University of Florida
-
 ### Description
-<img src="{{ site.url }}/images/felipe.jpg" width="120">{: .image-pull-right}  My name is **Luis Felipe Ventorim Ferrão** and I'm a **Research Assistant Scientist at the University of Florida**, working under Patricio Munoz  supervision in the [Blueberry Breeding and Genomics Lab](https://www.blueberrybreeding.com/). 
+<img src="{{ site.url }}/images/felipe.jpg" width="120">{: .image-pull-right}  My name is **Luis Felipe Ventorim Ferrão** and I'm a faculty at the University of Florida, working in collaboration with Dr. Patricio Munoz at the [Blueberry Breeding and Genomics Lab](https://www.blueberrybreeding.com/). 
 I obtained my Ph.D. in Genetics and Plant Breeding at the University of São Paulo (ESALQ,USP), Brazil. I am currently interested in statistical genetics, mixed models, Bayesian approaches and quantitative genetics of polyploids. You can read more about my work on this webpage and also see codes, papers and talks associated with my research.
 
 ### Some research topics:
@@ -26,7 +20,9 @@ I obtained my Ph.D. in Genetics and Plant Breeding at the University of São Pau
 - Association Mapping
 - Genomic Selection
 - Genetic of Polyploids
-- Bayesian approaches.
+- Bayesian approaches
+- Genomics
+- Blueberry Breeding
 
 ### External Links
 - [UF-IFAS](https://hos.ifas.ufl.edu/people/on-campus-faculty/)
