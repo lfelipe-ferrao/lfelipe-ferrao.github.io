@@ -22,4 +22,4 @@ I obtained my Ph.D. in Genetics and Plant Breeding at the University of São Pau
 - Bayesian approaches.
 
 ### External Links
-- [UF|IFAS](https://hos.ifas.ufl.edu/people/on-campus-faculty/)
+- [UF-IFAS](https://hos.ifas.ufl.edu/people/on-campus-faculty/)
