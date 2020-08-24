@@ -5,7 +5,7 @@ description:      description
 
 # Owner/author information
 owner:
-  name:           University of Florida
+  name:           UF|IFAS
   avatar:        myLogo.png
   bio:            "Gainesville,FL"
   email:          lfelipe.ferrao@gmail.com
@@ -23,7 +23,7 @@ owner:
   steam: 
   dribbble: 
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: scholar.google.com/citations?user=aOCcCqEAAAAJ&hl=pt-BR
+  google_plus: 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-51935714-1  
