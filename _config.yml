@@ -45,8 +45,8 @@ links:
 #    external: true
   - title: Publication
     url: /publication/
-#  - title: Former Students
-#    url: /former-students/
+  - title: Education
+    url: /education/
 #  - title: Genetics, ESALQ/USP
 #    url: http://www.genetica.esalq.usp.br/
 #    external: true
