@@ -34,3 +34,12 @@ experiments/studies.
 DOI: 10.1007/978-3-319-55177-7
 - Introduction to Quantitative Genetics, Falconer and Mackay, Longman Group Ltd, 1996
 - Genetics and analysis of quantitative traits, Lynch and Walsh, Sinauer, 1998
+
+## Software
+**You will need to bring your own laptop.** The main software used will be R with a library for ASReml-R. R
+can be downloaded from www.r-project.org, and ASReml (R library and stand-alone version) is available
+for registered students from: www.vsni.co.uk/software/asreml/asreml-teching. You will receive
+instructions to download, install and you will require a license for this software that will be provided by
+the instructor. There are numerous online resources available for R; however, if you would like a
+traditional textbook, The R Book, is widely available and comprehensive.
+- Crawley, M. J. (2012). The R book. John Wiley & Sons.
