@@ -13,7 +13,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ### Fall 2020
 
-- PCB6555 - Quantitative Genetics
+- [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
 
 ### Fall 2018
 
