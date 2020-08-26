@@ -12,7 +12,7 @@ Phone: (352) 846 0900\
 mkirst@ufl.edu\
 Office Hours by appointment
 
-- Dr. Felipe Ferrão\ 
+- Dr. Felipe Ferrão\
 2135 Fifield Hall\
 lferrao@ufl.edu\
 Office Hours by appointment
