@@ -1,21 +1,21 @@
 ## Instructors
 
-Dr. Marcio Resende, (**Course coordinator**)
-2135 Fifield Hall
-Phone: 352-273-4772
-mresende@ufl.edu
-Office Hours by appointment
+- Dr. Marcio Resende, (**Course coordinator**)
+2135 Fifield Hall\
+Phone: 352-273-4772\
+mresende@ufl.edu\
+Office Hours by appointment\
 
-Dr. Matias Kirst
-School of Forest Resources and Conservation
-Phone: (352) 846 0900
-mkirst@ufl.edu
-Office Hours by appointment
+- Dr. Matias Kirst
+School of Forest Resources and Conservation\
+Phone: (352) 846 0900\
+mkirst@ufl.edu\
+Office Hours by appointment\
 
-Dr. Felipe Ferrão Kirst
-2135 Fifield Hall
-lferrao@ufl.edu
-Office Hours by appointment
+- Dr. Felipe Ferrão 
+2135 Fifield Hall\
+lferrao@ufl.edu\
+Office Hours by appointment\
 
 ## Course Description
 
