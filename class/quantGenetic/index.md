@@ -43,3 +43,18 @@ instructions to download, install and you will require a license for this softwa
 the instructor. There are numerous online resources available for R; however, if you would like a
 traditional textbook, The R Book, is widely available and comprehensive.
 - Crawley, M. J. (2012). The R book. John Wiley & Sons.
+
+# Hands-on
+
+
+```
+[pdf] = slides used in class
+[html] = open it in your browser
+[HW] = homework
+[paper] = article suggested
+```
+
+- Sep/15: Population Genetics [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
+ 
+
+
