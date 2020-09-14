@@ -6,8 +6,11 @@ description: "Courses Material"
 toc: true
 modified: 2016-06-07
 tags: [people, undergrads, MSc, PhD, postdocs]
-image:
-  feature: fig1.jpeg
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_color: "#333"
+#image:
+  #feature: fig1.jpeg
   #thumb: fig1.jpeg
 
 ---
