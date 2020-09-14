@@ -3,6 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: "Courses Material"
+toc: true
 modified: 2016-06-07
 tags: [people, undergrads, MSc, PhD, postdocs]
 image:
