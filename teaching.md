@@ -7,7 +7,7 @@ modified: 2016-06-07
 tags: [people, undergrads, MSc, PhD, postdocs]
 image:
   feature: fig1.jpeg
-  thumb: fig1.jpeg
+  #thumb: fig1.jpeg
 
 ---
 
