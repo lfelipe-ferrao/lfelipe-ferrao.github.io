@@ -54,7 +54,10 @@ traditional textbook, The R Book, is widely available and comprehensive.
 [paper] = article suggested
 ```
 
-- Sep/15: Population Genetics [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
+## Population Genetics
+- :calendar: Sept/15
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
+-
  
 
 
