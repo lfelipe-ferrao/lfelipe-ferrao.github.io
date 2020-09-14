@@ -948,28 +948,30 @@ img {
 <div class="fyi">
 <p><strong>Objectives:</strong></p>
 <ul>
-<li>Discuss some population genetic concepts</li>
-<li>Simulate, estimate and analyse relatedness and inbreeding coefficients using molecular data</li>
+<li>Discuss population genetic concepts</li>
+<li>Simulate, estimate and analyze relatedness and inbreeding coefficients using molecular data</li>
 </ul>
 </div>
 <div class="demo">
 <p><strong>Plan for today:</strong></p>
 <ul>
-<li>20-30 minutes hands-on</li>
+<li>20-25 minutes hands-on</li>
 <li>Graphically show the concepts of inbreeding and drift discussed in the theoretical part</li>
-<li>Using the COANCESTRY software to compute relatedness using SSR</li>
+<li>Using the COANCESTRY software to compute relatedness and inbreeding using molecular data</li>
 </ul>
 </div>
 <hr />
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
 <ul>
-<li>Last class we discussed about Hardy-Weiberg principles, a principle that holds true only when individuals in a population mate at random</li>
-<li>Inbreeding is a form of non-random mating based on genetic relationship, since it occurs when two mating individuals have a common ancestror</li>
-<li>Inbreeding increase the frequency of homozygotes, that have some consequences:
+<li>Last class we discussed about Hardy-Weinberg equilibrium, a rule that holds true only when individuals in a population mate at random</li>
+<li>Inbreeding is a form of non-random mating, very common in plants</li>
+<li>Inbreeding is based on genetic relationship, since it occurs when two mating individuals have a common ancestror</li>
+<li>Some consequences of inbreeding:
 <ul>
-<li>Deleterious alleles are more frequently in homozygotes</li>
-<li>Reduce the natural</li>
+<li>Increase the frequency of homozygous across the generations</li>
+<li>Deleterious alleles are more frequently in homozygotes – reduce the mean fitness of a population</li>
+<li>Reduce the genetic diversity</li>
 </ul></li>
 <li>Genetic marker data are widely used to estimate inbreeding and relatedness between individuals in a population in which pedigree records are either lacking or unreliable.</li>
 </ul>
@@ -1000,13 +1002,18 @@ img {
 <div id="concepts" class="section level2 tabset">
 <h2>Concepts</h2>
 <ul>
-<li>Two individuals may have a common ancestor. A simple way of measuring the degree of relatedeness between two individuals is the <strong>coefficient of relationship</strong>. That was originally proposed by Wright in 1922.</li>
+<li>Two individuals may have a common ancestor. A simple way of measuring the degree of relatedeness between two individuals is the <strong>coefficient of relationship</strong>. That was originally proposed by <a href="https://aipl.arsusda.gov/publish/other/wright1922.pdf">Sewall Wright in 1922</a>.</li>
 <li>If they are related, both may have two received two copies of the same allele from the ancestor. Such copies are said to be <strong>identical by descent (IBD).</strong></li>
 <li>The probability that two copies of a gene are IBD is called the <strong>inbreeding coefficient</strong> (<em>f</em>).</li>
-<li>The coefficient of relationship is intuitively atractive and conceptually clear, but it is not the most useful measure of relationship.</li>
 <li><strong>Coefficient of Consanguinity (<span class="math inline">\(r_{xy}\)</span>)</strong> proposed by Malecot in 1948 ,is more frequent and represent the probability that two alleles, one chosen at random from each of two individuals, are IBD. It is also called <strong>kinship</strong> , <strong>coancestry</strong>, <strong>parenté</strong> or <strong>parentage</strong>.</li>
 </ul>
-<p>In this course we will show that this capacity to connect individuals using pedigree records or molecular data is the statistical and genetic basis of key concepts in the Quantitative genetic area, including the <strong>prediction of breeding values</strong> and estimating <strong>heritability</strong>. A spoiler here, the reason for that is that coancestry explains an important portion of the genetic variation. Namely, the <strong>additive genetic relationship</strong> between two individuals is twice their coancestry. Just keep it in mind for the future.</p>
+<p><strong>Important</strong></p>
+<p>The capacity to connect individuals using pedigree records or molecular data is the statistical and genetic basis of key concepts in the Quantitative genetic area. For example:</p>
+<ul>
+<li>Prediction of breeding values</li>
+<li>Estimating heritability.</li>
+</ul>
+<p><em>A spoiler here</em>: the coancestry explains an important portion of the genetic variation. Namely, the <strong>additive genetic relationship</strong> between two individuals is twice their coancestry. Just keep it in mind for the future.</p>
 <div id="example" class="section level3">
 <h3>Example</h3>
 <ul>
