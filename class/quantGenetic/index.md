@@ -53,14 +53,14 @@ traditional textbook, The R Book, is widely available and comprehensive.
 [HW] = homework
 [paper] = article suggested
 ```
+**Sept/15: Introduction to Population Genetics** 
 
-- Sept/15: Introduction to Population Genetics 
-  + Hands-on [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
-  + Inbreeding
-  + Relatedness
-  + COANCENTRY software [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1755-0998.2010.02885.x)
+-Hands-on [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
+- Inbreeding
+- Relatedness
+- COANCENTRY software [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1755-0998.2010.02885.x)
   
-- Sep/17: Population Genetics using R
+**Sep/17: Population Genetics using R**
 
  
 
