@@ -59,6 +59,7 @@ traditional textbook, The R Book, is widely available and comprehensive.
 - Inbreeding
 - Relatedness
 - COANCENTRY software [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1755-0998.2010.02885.x)
+- related R package [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12323) and its [tutorial](https://timothyfrasier.github.io/files/Tutorial.pdf) 
   
 **Sep/17: Population Genetics using R**
 
