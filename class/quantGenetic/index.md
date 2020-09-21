@@ -56,11 +56,7 @@ traditional textbook, The R Book, is widely available and comprehensive.
 **Sept/15: Introduction to Population Genetics** 
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
-- [[Download]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
-- Inbreeding
-- Relatedness
-- COANCENTRY software [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1755-0998.2010.02885.x)
-- related R package [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12323) and its [tutorial](https://timothyfrasier.github.io/files/Tutorial.pdf) 
+- Download [[here]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
   
 **Sep/17: Population Genetics using R**
 
