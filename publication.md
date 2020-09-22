@@ -14,6 +14,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Preprint
 
+- Colantonio,V; **Ferrão, LFV**; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.biorxiv.org/content/10.1101/2020.09.17.302802v1)
+
 - Cappai, F; Amadeu, RR; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-Resolution Linkage Map and QTL Analyses for Machine Harvest Traits in Autotetraploid Blueberry](https://www.biorxiv.org/content/10.1101/2020.05.13.093633v1). 
 
 ## Articles
