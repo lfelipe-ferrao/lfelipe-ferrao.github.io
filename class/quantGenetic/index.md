@@ -58,8 +58,9 @@ traditional textbook, The R Book, is widely available and comprehensive.
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
 - Download [[here]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
   
-**Sep/17: Population Genetics using R**
+**Sep/22: Simple Introduction to R applied to popgen analyses**
 
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2.html)
  
 
 
