@@ -61,6 +61,7 @@ traditional textbook, The R Book, is widely available and comprehensive.
 **Sep/22: Simple Introduction to R applied to popgen analyses**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2.html)
+- How to learn R? Nowadays you can find materials that fit well with your learning preference. If you prefer books, [The Art of R programming](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843)  and materials from [Prof. Andy](https://www.discovr.rocks/#welcome) are good options. If you prefer video classes, you can find good courses on youtube and [Coursera](https://www.coursera.org/). Finally, if you prefer interactive modes,  there are good options in the [DataCamp](https://www.datacamp.com/), [DataQuest](https://www.dataquest.io/) and using the [swirl R package](https://swirlstats.com/).  
  
 
 
