@@ -70,7 +70,6 @@ traditional textbook, The R Book, is widely available and comprehensive.
 
 **Oct/1: Introduction to Mixed Models**
 
-- Hands-on[[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week4.html)
 
 
 
