@@ -1,0 +1,368 @@
+---
+title: "Quantitative Genetics -- PCB6555"
+subtitle: 'Means, Genotypic Values and Breeding Values'
+author: "Felipe Ferrão and Marcio Resende Jr"
+date: "University of Florida -- September, 2020"
+output: 
+  rmdformats::html_clean:
+    code_folding: hide
+    css: style.css  
+editor_options: 
+  chunk_output_type: console
+---
+
+---
+
+:::fyi
+**Concepts:**
+
+- Genotypic values
+- Average effect 
+- Breeding values
+:::
+
+:::demo
+**Plan for today:**
+
+- 40 minutes of hands-on
+- Importance of experimental desing
+- ANOVA models
+:::
+---
+
+# Theory 
+
+## Introduction
+
+This class will develop the concepts needed to understand the detailed connections between quantitative trait variation and particulate inheritance. In particular, the goal is to show how genetic properties of a population are expressible in terms of gene frequencies and genotype frequencies. To accomplish this goal, we will work with a hypothetical quantitative trait that is the product of a single locus with two alleles. This discussion will start under the basis of a central equation in quantitative genetics where **Phenotype = Genotype + Environment** or just P=G+E. From here, we will focus on the G portion by constructing expressions that predict the phenotypic mean value of some genotypes in the population. The population mean value will later be divided into components due to the alleles/genes effects.
+
+## Scale of genotypic values
+
+Example:
+
+- A1 allele contributes to larger phenotypic values
+- A2 allele to smaller phenotypic values
+
+![The genotypic scale of measurement for quantitative traits -- figure from Hamilton , 2009](/home/lferrao/Dropbox/PosDoc_UF/TA/QuantitativeGenetics/week3/Fig1.png)
+
+Let **a**, **−a** and **d** be the arbitrary genotypic values for A1A1, A1A2 and A2A2,respectively. The value of a is a deviation from 0 (mid-point), which is the average of the two homozygotes. The heterozygote, A1A2 has a value of $k = d/a$, where $k$ is the degree of dominance. Therefore:
+
+- If d=0,  k=0:  additive or no dominance
+- k=+1: A1 allele is completely dominant over A2 allele and d=+a
+- k=-1: A2 allele is completely dominant over A1 allele and d=-a 
+- k>+1 or k<-1: over or under dominance, common case associated to the heterosis phenomenon. 
+
+## Mean Genotypic Value in a Population
+
+**How do gene frequencies affect the mean of a trait in a population?**  At the same way that we can compute mean values in our routine to summary or describe central tendencies, we can compute the effect of gene frequency in a population as a whole. Mean values are commonly computed by summing values and dividing by the total number of observations. In a mathematical notation: $\mu = \frac{\Sigma_{i=1}^N X_i}{n}$.  Arithmetic mean can also be computed in terms of frequency as: $\mu = \Sigma_{i=1}^N\frac{f_i \times X_i}{f_i}$. Assuming that frequencies here will be represented in terms of allele frequencies and its sum is equal to 1, we can simply the denominator of this equation and assume that **mean = freq x value**.
+
+| Genotypes | Freq  | Genotypic Value | Freq x value |
+|-----------|-------|-----------------|--------------|
+| A1A1      | $p^2$ | \+a             | $p^2a$       |
+| A1A2      | 2pq   | d               | 2pqd         |
+| A2A2      | $q^2$ | \-a             | $-q^2a$     |
+
+
+\begin{align*} 
+\mu = \frac{p^2a + 2pqd -q^2a}{1}\\
+(p^2-q^2)a + 2pqd\\
+(p+q)(p-q)a + 2pqd\\
+(p-q)a + 2pqd\\
+\mu = a(p-q)+2pqd
+\end{align*}
+
+More important than a final number that this equation can deliver, the formula show us that mean phenotypic values for a given locus is dictated by the level of dominance, gene frequencies, and/or if genes become fixed.
+
+## Average effect {.tabset}
+
+To describe the inheritance of quantitative phenotypes across generations, it is necessary to think in
+terms of alleles. Alleles and not genotypes are inherited by individuals. Thus, a new measure of value is needed that can be used to link the genotypic values of one generation with the genotypic values of their progeny in the next generation. The concept of average effect is used to assign a value to an **allele** and predict how it impacts the mean genotypic value of the population.
+
+In principle, the average effect of one allele in a certain population can be estimated as a deviation. For example, a deviation of the average effect of a particular allele from the population mean of individuals that received that allele from one parent and the same allele that comes from a random population. Abstractly, it could be computed by crossing a homozygous individual for the allele under study with a random population. The difference between the means associated to the offspring and the population mean is the average effect for this allele.  So, the average effects for A1 and A2 are defined bellow:
+
+| Gamete | Value and Freq | Mean value | Pop mean | Average effect |
+|-----------------|-------------------------------------------------------|------------------------|----------------------|----------------------------|
+|                 | A1A1                                                  | A1A2                   | A2A2                 |                            |                 |                             |
+|                 | a                                                     | d                      | \-a                  |                            |                 |                             |
+| A1              | p                                                     | q                      |                      | pa\+qd                     | a\(p\-q\)\+2pqd | q\{\[\}a\+d\(q\-p\)\{\]\}   |
+| A2              |                                                       | p                      | q                    | \-qa\+pd                   | a\(p\-q\)\+2pqd | \-p\{\[\}a\+d\(q\-p\)\{\]\} |
+
+The average effect is a deviation that measures the difference between the value of all genotypes that contain a given allele and the population mean. Therefore, the population mean must be subtracted from the mean values of genotypes produced by a given allele. 
+
+### Average effect of an allele 
+
+The average effects for A1 and A2 are defined bellow:
+
+$$\alpha_1 = q{[}a+d(q-p){]} $$
+
+$$\alpha_2 = -p{[}a+d(q-p){]}$$
+
+### Bonus
+
+Starting with the difference between the mean value of all genotypes produced by the A1 allele in and the population mean, below we can see the details to obtain the values for average effect
+
+| Equation                                 | Observation                                                                                          |
+|------------------------------------------|------------------------------------------------------------------------------------------------------|
+| α 1 = pa + qd − (a(p − q) + 2pqd ) | difference between the mean value of all genotypes produced by the A1 allele and the population mean |
+| α 1 = pa + qd − pa + qa − 2pqd         | expand a (p − q)                                                                                    |
+| α 1 = qd + qa − 2pqd                    | cancelling terms                                                                                     |
+| α 1 = q(d + a − 2pd)                 | factor out q                                                                                         |
+| α 1 = q(a + d(1 − 2p))              | inside the parentheses, two terms contain d in common that can be factored                           |
+| α 1 = q(a + d(p + q − 2p))         | p + q = 1 so that (p + q) can be substituted                                                     |
+| α 1 = q(a + d(q − p))               | adding p to −2p, we have the **final estimate**                                                                                      |
+## Average effect of the gene substitution 
+
+Another way to understand the average effect when there are two alleles at a locus is to suppose
+that it is possible to randomly sample genotypes from a population and then be able to substitute one
+of the alleles in a genotype for another. Simply stating, it is the effect in the phenotypic value when a given allele A1, for example via mutation, is substituted for the allele A2. Using algebraic manipulation, the expression for the average change in value due to an allelic replacement simplifies to:
+
+\begin{align*} 
+\alpha = \alpha_1 - \alpha_2\\
+= q[a + d(q-p)] - (-p)[a+d(q-p)]\\
+= [a + d(q-p)](q+p)\\
+= a + d(q-p)
+\end{align*}
+
+## Breeding Values
+
+This subsection will address how the mean phenotype of a population of progeny depends on mating among the population of parents. To this end, we reinforce the usefulness of the concept of average effect, since parents pass on their alleles and not their genotypes to the next generation. The value of an individual, judged by the mean value of its progeny is called **breeding values**. Among the terms used in the breeding context, breeding values is one of the most common. The reason for that is because the breeding values can be computed and, more importantly, expresses the value transmitted from parent to offspring. By assuming that a given offspring will receive half alleles from the mom and half from the dad, the expected  phenotypic value of the offspring is given by: $\bar{A_d} = 1/2 (A_s + A_d)$.
+
+Breeding values can be expressed in absolute units, but they are more conveniently expressed in the form of deviations from the population mean. When defined in terms of average effect, the breeding value of an individual is equal to the sum of the average effects of the alleles. For example:
+
+| Genotype | Breeding value                           |
+|----------|------------------------------------------|
+| A1A1     | $2\alpha_1=2q\alpha$                  |
+| A1A2     | $\alpha_1+\alpha_2=(q-p)\alpha$ |
+| A2A2     | $2\alpha_2=-2p\alpha$                |
+
+The breeding value tell us the expected mean value of a progeny that would be produced by each
+genotype under random mating. Because it is a concept made up of the average effects of the two alleles in a genotype, breeding values also depend on the population context in which they are measured. Thus, they are not universal features of genotypes but rather depend on
+the population allele and genotypes frequencies.
+
+
+# Practice
+
+The term phenotypic value was introduced to refer to the phenotype of an individual in the same units that it is measured in. In the sense of the population average value, P refers to the average
+phenotypic value, G refers to the average phenotype for many individuals with a given genotype called the genotypic value, and E refers to the average deviation in phenotype among many individuals caused
+by all environmental factors combined. This leads to an equation for the causes of mean phenotypic value: P= G+E. 
+
+In words, this equation says that the mean phenotype in a population is the sum of the mean genotypic
+value plus the average change in phenotype due to the environment. Conceptually, these terms have been detailed and, so far, we have focused on the genotypic portion of this equation. Throughout this course we will use experimental statistics to decompose and better understand how the phenotypic value is influenced by genetic and non-genetic components. Analysis of variance (ANOVA) will assist in this task, since it an analysis of variance is based on the decomposition of the **total variation** (proxy for phenotypic value) into parts that can be attributed to **treatments (variance between treatments)** (proxy for genotypic effect) and to **experimental error (residual variance)** (proxy for environmental effect). 
+
+## ANOVA {.tabset}
+
+### Theory
+
+- Usually, we want to know if there is any significant difference between the means of our treataments.
+- An analysis of variance is based on the decomposition of the **total variation** into parts that can be attributed to **treatments (variance between treatments)** and to **experimental error (residual variance)**. 
+- It is the ratio between both variances associated to a F statistic that provides the following hypothesis test:
+    + $H_0: \mu_1 = \mu_2 = ... =\mu_i$
+    +  $H_1$ at least one $\mu_i$ is different
+
+### Experimental Desing
+
+Three main principles of a experimental desing:
+
+- Replication
+- Randomization
+- Local control
+
+![Experimental Desing](/home/lferrao/Dropbox/PosDoc_UF/TA/QuantitativeGenetics/week3/rr.png)
+
+### Terminology
+
+- **Treatment:** A treatment is a condition imposed by the researcher or even an object that you want to measure or evaluate in an experiment. Usually, in an experiment, more than one treatment is tested As examples of treatments, we can mention: equipment of different brands, doses of a nutrient or different genotypes.
+    + Treatments that can be arranged in an order, for example, doses of nutrients and temperature levels. If this is the case, thay are called *quantitative treatments*. Treatments that cannot be arranged in an order, are called *qualitative treatments* or *factors*, for example, plant varieties and food preparation methods
+    + In a linear model, treatments are also called *independent variables* and they can be presented in different levels.
+ 
+- **Experimental unit or plot:** physical place where a treatment will be applied and measured. It is the plot that provides the data that will be evaluated. It could be an area in the field, or some food or vases in a greenshouse.
+
+- **Experimental Design:** in order to estimate (and also reduce) the experimental error, the treatments are assigned to the experimental units in a systematic way, using all the principles of experimental design. An experimental design is planned in such a way that a random variation is reduced as much as possible. 
+
+## Examples {.tabset}
+
+### One-way ANOVA:
+
+- 4 treatments (cultivar)
+- 5 repetitions
+- Yield response variable
+- Statistical model: $y_{ij} = \mu + \tau_i + e_{ij}$
+
+
+| Source of Variation 	| Df 	| Sum of Squares 	| Mean Square 	| F -Statistic 	|
+|-	|-	|-	|-	|-	|
+| Treatments 	| t-1 	| SSt 	| MSt 	| F=MSt/MSr 	|
+| Residual 	| t(r-1) 	| SSr 	| MSr 	|  	|
+| Total 	| rt-1 	| SStot 	|  	|  	|
+
+
+```{r,fig.height=3,eval=F}
+# CRD - Calcium Experiment
+names=c("A","A","A","A","A","B","B","B","B","B","C","C","C","C","C","D","D","D","D","D")
+trt<-as.factor(names)
+length<-c(72,57,56,68,64,72,66,80,75,80,72,76,74,70,65,49,45,63,39,56)
+calcium<-data.frame(trt,length)
+
+# Summary data
+boxplot(length~trt,data=calcium)
+
+# Performing ANOVA two different ways
+aov(length~trt,data=calcium)
+# length = mu + trt + e
+crd<-lm(length~trt,data=calcium)
+anova(crd)
+summary(crd)
+crd$coefficients  # or coefficients(crd)
+
+# Residual Plots
+par(mfrow=c(1,4))
+plot(crd)
+res<-residuals(crd)
+hist(res)
+
+# Multiple Comparisons
+library(lsmeans)
+lsmeans(crd,~trt)
+lsmeans(crd, pairwise~trt,adjust="none")  #LSD
+lsmeans(crd, pairwise~trt,adjust="bonferroni")
+```
+
+### RCBD - Alfafa
+
+- 6 treatments (cultivar)
+- 6 blocks
+- Yield response variable
+- Statistical model: $y_{ij} = \mu + \beta_j + \tau_i + e_{ij}$
+
+
+| Source of Variation 	| Df 	| Sum of Squares 	| Mean Square 	| F -Statistic 	|
+|-	|-	|-	|-	|-	|
+| Treatments 	| t-1 	| SSt 	| MSt 	| F=MSt/MSr 	|
+| Block 	    | b-1 	| SSb 	| MSb 	| 	|
+| Residual 	| bt(r-1) 	| SSr 	| MSr 	|  	|
+| Total 	| rt-1 	| SStot 	|  	|  	|
+
+```{r, fig.height=3,eval=F}
+# RCBD - Alfalfa Experiment
+rm(list=ls())  # Removes all variables in memory
+ls()
+
+alfalfa<-read.table("/home/lferrao/Dropbox/PosDoc_UF/TA/QuantitativeGenetics/week1/practical/ALFALFA.txt",header=TRUE)
+head(alfalfa)  
+summary(alfalfa)
+
+# Boxplot for Each variety and general histogram
+boxplot(Resp~Variety,data=alfalfa)
+hist(alfalfa$Resp, main='Alfalfa Experiment',xlab='Yield')
+
+# Changes some columns into factors
+str(alfalfa)
+alfalfa$Variety<-as.factor(alfalfa$Variety)
+alfalfa$Source<-as.factor(alfalfa$Source)
+alfalfa$Block<-as.factor(alfalfa$Block)
+
+# Fitting model
+# Resp = mu + Block + Variety + e
+alflm<-lm(Resp~Block+Variety,data=alfalfa)
+summary(alflm)
+anova(alflm)
+
+# Residual Plots
+par(mfrow=c(1,4))
+plot(alflm)
+res=residuals(alflm)
+hist(res)
+par(mfrow=c(1,1))
+
+# Checking some additional residual plots
+e<-residuals(alflm)
+rstand<-e/summary(alflm)$sigma
+rstud<-rstudent(alflm)
+yhat<-fitted.values(alflm)
+
+# Diagnostic
+par(mfrow=c(1,2))
+plot(rstand~yhat,xlab="Fitted Values",ylab="Standardized Residuals")
+abline(h=0)
+plot(rstud~yhat,xlab="Fitted Values",ylab="Studentized Residuals")
+abline(h=0)
+par(mfrow=c(1,1))
+hist(rstand)
+
+# Predicting Means for each treatment and CIs
+library(lsmeans)
+lsmeans(alflm,~Variety)
+lsmeans(alflm,pairwise~Variety,adjust="none")
+lsmeans(alflm,~Block+Variety)
+
+# A different form to get menas for effects (or combinations)
+alfaov<-aov(Resp~Block+Variety,data=alfalfa)
+model.tables(alfaov,type="means",se=T)
+model.tables(alfaov,type="effects",se=T)
+
+```
+
+
+### Factorial Desing
+
+- 5 treatments (cultivar)
+- 3 methods
+- 4 blocks
+- Statistical model: $y_{ij} = \mu + \beta_j + \tau_i + \alpha_k + \alpha\tau_{ik} + e_{ijk}$
+
+| Source of Variation 	| Df 	| Sum of Squares 	| Mean Square 	| F -Statistic 	|
+|-	|-	|-	|-	|-	|
+| Treatments 	| t-1 	| SSt 	| MSt 	| F=MSt/MSr 	|
+| Method 	    | m-1 	| SSm 	| MSm 	|           	|
+| treat x met | (t-1)(m-1) 	| SSi 	| MSi 	|           	|
+| Block 	    | b-1 	| SSb 	| MSb 	| 	|
+| Residual 	| bt(r-1) 	| SSr 	| MSr 	|  	|
+| Total 	| rt-1 	| SStot 	|  	|  	|
+
+```{r, fig.height=3,eval=F}
+rm(list=ls())  # Removes all variables in memory
+
+pine<-read.table("/home/lferrao/Dropbox/PosDoc_UF/TA/QuantitativeGenetics/week1/practical/PINE.txt",header=TRUE)
+head(pine)  
+summary(pine)
+str(pine)
+
+# Factor
+pine$Variety<-as.factor(pine$Variety)
+pine$Method<-as.factor(pine$Method)
+pine$Trt<-as.factor(pine$Trt)
+pine$Block<-as.factor(pine$Block)
+summary(pine)
+
+# Looking at EDA for the interaction
+interaction.plot(pine$Variety,pine$Method,pine$Resp)  # By Variety
+interaction.plot(pine$Method,pine$Variety,pine$Resp)  # By Method
+
+# Fitting model
+pinem1<-lm(Resp~Block+Trt,data=pine)
+anova(pinem1)
+
+pinem2<-lm(Resp~Block+Variety+Method+Variety:Method,data=pine)
+anova(pinem2)
+
+# Residual Plots
+par(mfrow=c(1,4))
+plot(pinem2)
+res=residuals(pinem2)
+hist(res)
+par(mfrow=c(1,1))
+
+# Predicting Means for each treatment and CIs
+library(lsmeans)
+lsmeans(pinem2,~Variety:Method)
+lsmeans(pinem2,pairwise~Method)
+lsmeans(pinem2,pairwise~Variety:Method,adjust="none")
+```
+
+# References
+
+- Hamilton, 2009. Population Genetics, 1st edition. [Book link](https://www.amazon.com/Population-Genetics-Matthew-Hamilton/dp/1405132779)
+- Falconer and Mackay, 1996. Introduction to Quantitative Genetics.
+[Book link](https://www.amazon.com/Introduction-Quantitative-Genetics-Douglas-Falconer/dp/0582243025)
+- Cruz, 2005. Princípios de Genética Quantitativa. [Book in portuguese, link](https://www.editoraufv.com.br/produto/principios-de-genetica-quantitativa/1109015)
+- Isik et al., 2017. Genetic Data Analysis for Plant and Animal Breeding. [Book link](https://www.springer.com/gp/book/9783319551753)
