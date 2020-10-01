@@ -1,0 +1,435 @@
+---
+title: "Quantitative Genetics -- PCB6555"
+subtitle: 'Linear Mixed Model'
+author: "Felipe Ferrão and Marcio Resende Jr"
+date: "University of Florida -- October, 2020"
+output: 
+  rmdformats::html_clean:
+    code_folding: hide
+    css: style.css  
+editor_options: 
+  chunk_output_type: console
+---
+
+---
+
+:::fyi
+**Concepts:**
+
+- Random vs. Fixed effects
+- Mixed Models
+- BLUEs vs. BLUPs
+:::
+
+:::demo
+**Plan for today:**
+
+- 40 minutes of hands-on
+- In groups, the students will discuss about experimental desing and potential models
+- Compare Mixed Models vs. Traditional ANOVA using balanced data
+- Compare Mixed Models vs. Traditional ANOVA using unbalanced data
+:::
+---
+
+
+# Introduction
+
+In this class we will introduce the basic concepts and matrix algebra used to perform linear mixed models analysis. First, we will compare ANOVA (fixed models) with ANOVA mixed models by using real examples. At this point, we will focus only on practical results and improve our intuition about modeling philosophies. For that, we will check the outputs and interpret the results. Finally, we will present some theory about mixed models and potential use -- only a key details of the mathematical theory involved will be discussed.
+
+## Statistical Modelling Process
+
+i. Understand the problem
+ii. Plan and collect the data
+iii. Explore the data (data visualization)
+iv. Postulate a model
+v. Fit a model (least square, ML, REML, Bayesian)
+vi. Check the model (residuals, prediction, goodness-of-fit)
+vii. Go back to `iv` and try again
+viii. Use the model
+
+## Task
+
+- Download the Maize Recombination Inbred Lines Data (`MaizeRILS.csv`), an example from [Isik et al., 2017](https://www.springer.com/gp/book/9783319551753).
+    + [Link for the example](https://drive.google.com/drive/folders/0B9JWAJgh6v3Cflppc09XUXU3WHRvX29qY1IxNDVFaEdpblA4SFNXOThQV2ZDRVkxWlZWSEk).
+    + Description: 62 recombinat inbreed lines (RIL) progeny from the crosses between inbred maize lines B73 and MO17. RILS were grown in experimenal units using a RCBD desing with two replications and four locations.
+
+| Effect   | Observation                                 | Levels  |
+|----------|---------------------------------------------|---------|
+| location | location of the progeny test                | 4       |
+| blocks   | replication number                          | 2       |
+| RIL      | treatment \-\- recombination inbred line ID | 62      |
+| height   | mean height of five plants in each plot     | numeric |  
+    
+ 
+- Students will be assigned to different groups via breakout rooms in Zoom. 
+- In 10 minutes, groups should discuss:
+  - Based on this simple description, what should be the objective of this experiment?
+  - Can you draft a first model?
+  - What effect should be considered fixed and/or random? Why?
+  - What package/software can we use for fixed and/or mixed models?
+
+
+# Balanced Data
+
+- Example from the Chapter 2 -- [Isik et al., 2017](https://www.springer.com/gp/book/9783319551753)
+
+## Classifical ANOVA
+
+**Problem**
+
+- Description: 62 recombinat inbreed lines (RIL) progeny from the crosses between inbred maize lines B73 and MO17. RILS were grown in experimenal units using a RCBD desing with two replications and four locations.
+
+- Potential objectives:
+  + Ranking genotypes
+  + Investigate GxE interaction.
+  + Estimate genetic parameters
+
+
+**Data Collection:**
+
+| Effect   | Observation                                 | Levels  |
+|----------|---------------------------------------------|---------|
+| location | location of the progeny test                | 4       |
+| rep      | replication number                          | 2       |
+| block    | block number                                | 8       |
+| plot     | plot number                                 | numeric |
+| RIL      | treatment \-\- recombination inbred line ID | 62      |
+| pollen   | days to pollen shed                         | numeric |
+| silking  | days to silking                             | numeric |
+| ASI      | anthesis\-silk interval                     | numeric |
+| height   | mean height of five plants in each plot     | numeric |
+
+**Exploring the data**
+
+```{r,eval=F}
+# download the data
+maize = read.csv("/home/lferrao/Dropbox/classes/2020/QuantitativeGenetics/week4/MaizeRILs.csv")
+maize$rep = as.factor(maize$rep)
+maize$block = as.factor(maize$block)
+# exploratory analysis
+str(maize)
+table(maize$RIL,maize$rep,maize$location) # is the data balanced
+boxplot(maize$height ~maize$location) # effect of location
+boxplot(maize$height ~ maize$rep +maize$location) # effect of block within location
+```
+
+```{r, eval=F}
+# Questions
+# i) Why rep is nested within location and location is crossed (interaction) with RILS?
+# ii) Is the data set balanced?
+# iii) How many different models can be fitted?  
+
+```
+
+
+
+**Postulating a model:**
+
+$$y_{ijk} = \mu + L_i + B(L)_{ij} + G_k + GL_{ik} + e_{ijk}$$
+
+
+- $\mu$ is the overall mean;
+- $L_i$ = effect of location i
+- $B(L)_{ij}$ = effect of block j nested within location i
+- $G_k$ = effect of genotype k
+- $GL_{ik}$ = effect of interaction between genotype k and location i
+- $e_{ijk}$ = random effect error, distributed as: $e_{ijk} \sim N(0, I\sigma^2_e)$
+
+**Fitting and checking the model**
+
+```{r, eval=F}
+# Fitting the model
+m0 = lm(height ~ rep:location + location + RIL + location*RIL, data=maize)
+anova(m0) # fit the model
+plot(m0) # check model assumptions
+
+# What is the most representative value of the genetic potential of RILs?
+# i) Maybe, the mean per RIL
+RIL_mean = maize %>%
+  dplyr::group_by(RIL) %>%
+  dplyr::summarise(mean = mean(height)) %>%
+  as.data.frame() 
+head(RIL_mean)
+
+# ii) Least Square estimated from the model !
+# RIL_i = mu + t_i + mean(t_i:loc) + mean(t_i:block)
+library(lsmeans)
+lsmeans1 = summary(lsmeans(m0, "RIL"))
+blues = data.frame(id = lsmeans1$RIL,
+                   lsmeans = lsmeans1$lsmean,
+                   blues = lsmeans1$lsmean - mean(maize$height),
+                   RIL_mean = RIL_mean$mean) 
+
+cor(blues$lsmeans, blues$RIL_mean)
+
+# Mean and lsmeans can be not the same value
+# Balanced data, the correlation bettwen both is large
+```
+
+
+```
+Analysis of Variance Table
+
+Response: height
+              Df Sum Sq Mean Sq  F value    Pr(>F)    
+location       3  84931 28310.4 436.3090 < 2.2e-16 ***
+RIL           61 154938  2540.0  39.1448 < 2.2e-16 ***
+rep:location   4   3594   898.6  13.8482 3.408e-10 ***
+location:RIL 183  20999   114.8   1.7685 1.643e-05 ***
+Residuals    244  15832    64.9                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+```
+
+**Using the model**
+
+i. Importance of GxE interaction
+ii. Use the `lsmeans` or `blues` to ranking the genotypes
+iii. Post-hoc tests (eg: Tukey, ScottKnott and others) 
+
+
+## Mixed Model
+
+- The 8 statistical modelling steps are the same.
+
+- Sometimes, the decision as to whether certain effects are fixed or random is not immediately obvious. 
+
+|               | Fixed                                             | Random                                             |
+|---------------|---------------------------------------------------|----------------------------------------------------|
+| Objectives    | compare specific levels of a certain factor       | conclusions draw for a larger universe of interest |
+| Sampling      | treatment levels are selected by the investigator | treatment levels are randomly sampled              |
+| Statistically | hypothesis tests on the mean $H_0: \tau_1 = \tau_2 = ...= \tau_n$                      | hypothesis tests on the variance component  $H_0: \sigma^2_{\tau} = 0$        |
+| Number of observation | any                                               | Rule of thumb: >5\-10                              |
+
+
+
+**Postulated a linear MIXED MODEL:**
+
+$$y_{ijk} = \mu + L_i + B(L)_{ij} + \underline{G_k} + \underline{GL_{ik}} + \underline{e_{ijk}}$$
+
+
+- $\mu$ is the overall mean;
+- $L_i$ = effect of location i
+- $B(L)_{ij}$ = effect of block j nested within location i
+- $G_k$ = random effect of genotype k, where $G_{k} \sim N(0, I\sigma^2_g)$
+- $GL_{ik}$ = random effect of interaction between genotype k and location i, where $GL_{ik} \sim N(0, I\sigma^2_{g \times e})$
+- $e_{ijk}$ = random effect error, distributed as: $e_{ijk} \sim N(0, I\sigma^2_e)$
+
+Observations:
+
+- All random terms are associated to a distribution.
+- By definition, all interactions between random and a fixed terms are random
+- `lme4` package will be used for mixed model
+
+```{r, eval=F}
+library(lme4)
+library(lmerTest)
+mm = lmer(height ~ rep:location + location + (1|RIL)  + (1|location:RIL),data = maize)
+summary(mm)
+plot(mm)
+
+# Fixed effect
+anova(mm) # very similar results from the fixed model
+
+# Random effects
+a1 = summary(mm)
+a1$varcor
+```
+
+
+```
+Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: height ~ rep:location + location + (1 | RIL) + (1 | location:RIL)
+   Data: maize
+
+REML criterion at convergence: 3782.2
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.42389 -0.53370  0.01981  0.60963  2.13502 
+
+Random effects:
+ Groups       Name        Variance Std.Dev.
+ location:RIL (Intercept)  24.93    4.993  
+ RIL          (Intercept) 303.15   17.411  
+ Residual                  64.89    8.055  
+Number of obs: 496, groups:  location:RIL, 248; RIL, 62
+```
+
+**Hyphotesis Testing with Mixed Models**
+
+- Unlike fixed models, random effects are not tested in the same way with some ready-to-use p-value.
+
+- There are some alternative approaches to get a p-value, as the "Z scores" implemented in SAS. 
+
+- Higher power can be implemented with the [likelihood ratio test (LRT)](https://en.wikipedia.org/wiki/Likelihood-ratio_test). This test require one to fit an additional mixed model for each factor to be tested, in which one removes the factor of interest from the model. 
+
+- Intuition: comparing complete vs. reduced models. If when a given term is removed causes a large decrease in the goodness-of-fit , then we have evidences that the variance component for that given term is important and greater than zero.
+
+- Important:
+  + LRT should be used only for nested model
+  + LRT Distribution is approximately as a chi-square value. 
+
+$$LRT = -2 \times ln \left(\dfrac{L(reduced)}{L(full)}\right)$$
+
+```{r, eval=F}
+# Comparing the importance of GxE interaction
+mm_full = lmer(height ~ rep:location + location + (1|RIL)  + (1|location:RIL),data = maize)
+mm_reduced = lmer(height ~ rep:location + location + (1|RIL),data = maize)
+anova(mm_full,mm_reduced)
+```
+
+## ANOVA vs. Mixed Model for balanced data 
+
+- Fixed Model: marginal means are obtained via least square. In tha balanced experiment, lsmeans per treatment and the raw means per treatment are similar but not the same. 
+
+- Mixed model: random effects are assumed to have a mean value of zero sampled from a normal distribution with an estimated variance component ($g \sim N(0,\sigma^2_g)$). 
+
+```{r, eval=F}
+# lsmeans
+lsmean_obj = lsmeans(m0, "RIL")
+blues = summary(lsmean_obj) 
+head(blues) # blues and marginal mean are equal
+
+# ---- BLUPs ---- 
+# Predicted random effects are called BLUP (best linear unbiased predictor)
+randeffect = ranef(mm)
+blups = randeffect$RIL$`(Intercept)`
+
+# ---- Comparing ---
+# Plots
+par(mfrow=c(1,3))
+hist(blues$lsmean, main="lsmeans")
+hist(blups, main="BLUPs")
+plot(blues$lsmean, blups, main="blups vs. lsmeans")
+
+# We can present the BLUPs in the same scale of the trait
+# adj.means = BLUP + overal.mean
+final = data.frame(RIL = blues$RIL,
+           lsmeans = blues$lsmean,
+           blups = blups,
+           adj.blups = blups + mean(maize$height))
+head(final,n=10)
+```
+
+### Conclusions
+
+- In the case of balanced data, fixed estimates and random predictions for the RIL effect  will result in equal ranking.
+
+- Originally, BLUPs are presented as deviations centered on zero with an estimated variance component. Values in the real scale can be obtained by adding the general average.
+
+- One of the BLUP proportie is to shrunk toward the overall mean relative to BLUEs. Thhis fact can explani the differences between lsmeans and adj.means obtained. Check the results for the `RIL-21` for example.
+
+- Equality between BLUPs and BLUEs is not guaranteed in all scenarios, as will be seen in the next section
+
+
+
+# Unbalanced Data
+
+To demonstrate the effect on unbalanced data of analysis of variance, we will consider the same data set but including 4.5% missing data. Unbalance data set is natural in the breeding context. In this scenario, the equality between fixed and mixed models is no longer guaranteed. However, the use of mixed models is more appropriate since it has better statistical properties. 
+
+Aside of missing data, there are also other scenarios where, at least in theory, mixed models are more indicated than traditional ANOVA. For example:
+
+- Classical ANOVA assumptions are not met
+- More complex experimental desing
+- Correlated measures
+- More than one random effect
+- More than one residual
+
+## ANOVA vs. Mixed Models
+
+- Download the Maize Recombination Inbred Lines Data (`MaizeRILS_miss.csv`), an example from [Isik et al., 2017](https://www.springer.com/gp/book/9783319551753).
+
+- `RIL-51` has data only from 3 locations.
+
+- We will use a simular step-by-step that we used in the balanced data set.
+
+```{r,eval=F}
+# Download the data
+maize_miss = read.csv("/home/lferrao/Dropbox/classes/2020/QuantitativeGenetics/week4/MaizeRILs_miss.csv")
+maize_miss$rep = as.factor(maize_miss$rep)
+
+# Exploratory analysis
+str(maize_miss)
+table(maize_miss$RIL,maize_miss$location) # RIL-5 was evaluated in only two location, for example
+
+# ANOVA and Mixed Model
+m1 = lm(height ~ rep:location + location + RIL + location*RIL, 
+        data=maize_miss) # fixed
+mm1 = lmer(height ~ rep:location + location + (1|RIL)  + (1|location:RIL),
+           data = maize_miss) # random
+
+#Results
+anova(m1) #df for location:RIL changed
+summary(mm1) # Some differences
+
+# lsmean package
+lsmean_obj = summary(lsmeans(m1, "RIL"))
+head(lsmean_obj) 
+
+# Predict the random term
+randeffect = ranef(mm1)
+blups = randeffect$RIL$`(Intercept)`
+hist(blups)
+```
+
+### Conclusions
+
+- Comparing the outputs, a few key differences should be noted when original and predicted random effects (adj.means) are compared -- genotype ranking is very similar. 
+
+- In the case of random effects, when effect are assumed to sampled from a normal distribution centered on zero the expected values of missing data are shrunk towards the mean of the experiment. 
+
+- `RIL-51` was the effect most impacted when the genotypic effect was considered as fixed or random. 
+
+![Comparison between BLUEs and BLUPs or between unadjusted and shrunk means, for height of breeding lines of maize](/home/lferrao/Dropbox/classes/2020/QuantitativeGenetics/week4/text1431-7-3-60.png)
+
+
+**Why BLUPs are shrunk estimate?**
+
+The ordinary difference between a treatment mean (`lsmeans`) and the overall mean is called the *best linear unbiased estimate (BLUE)*. Bellow you can see how the BLUP is computed as a function of the general mean and the variance components (estimated from the data). 
+
+$$BLUP_k = BLUE_k \times shrinkage factor_k$$
+
+$$BLUP_k = (\hat{\mu}_k - \hat{\mu}) \times \left(\dfrac{\hat{\sigma}^2_g}{\hat{\sigma}^2_g + \frac{\hat{\sigma}^2_e}{r_k}} \right)$$
+
+Intuitively, mixed models analysis provides a way of building the pessimism of the plant breeder more fully into the formal analysis of the data by using the shrinkage factor, giving a similar adjustment to the mean of each individual breeding line. As should be expected, the amount of shrinkage specified by is large when:
+
+- The genetic variance is small
+- The residual variance is large
+- The number of replications of the breeding line under consideration, $r_k$ , is small.
+- When the number of replications is constant over the genotypes, the shrinkage of BLUPs does not change the ranking of the means. However, if the number of replications is unequal, crossovers may occur, as in the case of the `RIL-51` in the previus example.
+
+
+```{r,eval=F,echo=F}
+library(ggplot2)
+library(reshape2)
+final.long = final %>%
+  dplyr::select(RIL, adj.means, unadj.means) %>%
+  melt(.)
+
+final.long$variable = factor(final.long$variable,
+                             levels = c("unadj.means", "adj.means"))
+
+ggplot(final.long, aes(x = as.factor(variable), y= value, group=RIL)) +
+  geom_line() +
+  theme_bw() +
+  geom_hline( yintercept = mean(original.means$mean)) 
+
+a = final %>%
+  mutate(tmp = adj.means - unadj.means)
+```
+
+# Final Considerations
+
+**What is the connection between this hands-on and the theory ?**
+
+- We have statistical tools to disentangle the equation: P=G+E.
+- When estimating BLUEs and BLUPs, we have a proxy value for the genotypic effects and, therefore, a way to ranking the genotypes in an breeding program.
+- By estimating variance components, we can contrast genetic and environmental variances and compute important genetic parameters ($h^2$).
+
+
+# References
+
+- Isik et al., 2017. Genetic Data Analysis for Plant and Animal Breeding. [Book link](https://www.springer.com/gp/book/9783319551753)
+- Galway, 2006. Introduction to Mixed Modelling Beyond Regression and Analysis of Variance. [Book link](https://www.amazon.com/Introduction-Mixed-Modelling-Regression-Analysis/dp/0470014962)
+- McCulloch and Searle, 2008. Generalized, Linear, and Mixed Models. [Book Link](https://www.wiley.com/en-us/Generalized%2C+Linear%2C+and+Mixed+Models%2C+2nd+Edition-p-9780470073711)
