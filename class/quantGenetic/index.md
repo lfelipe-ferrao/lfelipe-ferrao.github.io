@@ -53,14 +53,14 @@ traditional textbook, The R Book, is widely available and comprehensive.
 [HW] = homework
 [paper] = article suggested
 ```
-**Sept/15: Introduction to Population Genetics** 
+**1. Introduction to Population Genetics** 
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
  
 - Theory:Introduction to PorGen
 - Practice: COANCESTRY software
  
-**Sep/22: Introduction to R applied to popgen analyses**
+**2. Introduction to R applied to popgen analyses**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2.html)
 
@@ -69,14 +69,14 @@ traditional textbook, The R Book, is widely available and comprehensive.
 
 - How to learn R? Nowadays you can find materials that fit well with your learning preference. If you prefer books, [The Art of R programming](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843)  and materials from [Prof. Andy](https://www.discovr.rocks/#welcome) are good options. If you prefer video classes, you can find good courses on youtube and [Coursera](https://www.coursera.org/). Finally, if you prefer interactive modes,  there are good options in the [DataCamp](https://www.datacamp.com/), [DataQuest](https://www.dataquest.io/) and using the [swirl R package](https://swirlstats.com/).  
  
-**Sep/24: Means,Genotypic Values and Breeding Values**
+**3. Means,Genotypic Values and Breeding Values**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week3.html)
 
 - Theory: Genetic Effect of complex traits
 - Practice: Introduction to Experimental Design and ANOVA
 
-**Oct/1: Introduction to Mixed Models**
+**4. Introduction to Mixed Models**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week4.html)
 
