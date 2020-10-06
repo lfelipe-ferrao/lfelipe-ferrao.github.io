@@ -56,13 +56,15 @@ traditional textbook, The R Book, is widely available and comprehensive.
 **1. Introduction to Population Genetics** 
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
- 
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week1.html)
+
 - Theory:Introduction to PorGen
 - Practice: COANCESTRY software
  
 **2. Introduction to R applied to popgen analyses**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2.html)
 
 - Theory:Introduction to PorGen
 - Practice: Introduction to R applied to popgen analyses
@@ -72,6 +74,7 @@ traditional textbook, The R Book, is widely available and comprehensive.
 **3. Means,Genotypic Values and Breeding Values**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week3.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week3.html)
 
 - Theory: Genetic Effect of complex traits
 - Practice: Introduction to Experimental Design and ANOVA
@@ -79,6 +82,7 @@ traditional textbook, The R Book, is widely available and comprehensive.
 **4. Introduction to Mixed Models**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week4.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week4.html)
 
 - Theory: REML and Mixed Model
 - Practice: Mixed Models compared to traditional ANOVA
@@ -86,6 +90,7 @@ traditional textbook, The R Book, is widely available and comprehensive.
 **5. Dominance Deviation**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5.html)
 
 - Theory: Dominance deviation and Regression Biometric Model
 - Practice: a toy example on simulating a simpre regression model in R
