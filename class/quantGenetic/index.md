@@ -82,3 +82,10 @@ traditional textbook, The R Book, is widely available and comprehensive.
 
 - Theory: REML and Mixed Model
 - Practice: Mixed Models compared to traditional ANOVA
+
+**5. Dominance Deviation**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5.html)
+
+- Theory: Dominance deviation and Regression Biometric Model
+- Practice: a toy example on simulating a simpre regression model in R
