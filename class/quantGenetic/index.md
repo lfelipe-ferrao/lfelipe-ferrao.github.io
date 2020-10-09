@@ -44,14 +44,18 @@ the instructor. There are numerous online resources available for R; however, if
 traditional textbook, The R Book, is widely available and comprehensive.
 - Crawley, M. J. (2012). The R book. John Wiley & Sons.
 
-# Hands-on
+# Class notes and Hands-on
 
+It is an attempt to organize and make available to any student the class notes used during the Quantitative Genetic course. The material is a compilation of texts, examples, and materials from various books and papers that we visited to create the classes. We suggest using it as a guide for lessons. Important: these class notes do not replace the fundamental role of the textbooks !! At the end of each class, there are references. We strongly to visit the references for a complete understanding. 
+
+We hope in the future include some authorial examples using data from our personal research. Plans for the future!
 
 ```
 [pdf] = slides used in class
 [html] = open it in your browser
 [HW] = homework
 [paper] = article suggested
+[Download] = link for downloading the files. 
 ```
 **1. Introduction to Population Genetics** 
 
