@@ -105,3 +105,10 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Total genetic, additive and dominance variances. Heritability theory
 - Practice: app to check the components of the genetic variance and their relationship to the allele frequencies.
 
+**7. Covariance Between Relatives**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week7.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week7.html)
+
+- Theory: Resemblance between relatives.
+- Practice: Progenie tests experiments using the asreml-r.
