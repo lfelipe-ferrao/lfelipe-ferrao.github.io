@@ -5,8 +5,8 @@ title: About me
 tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
-#image:
-  #feature: uf_tmp1.png
+image:
+  feature: logo2.png
   #thumb: LogoIconBlack.jpg
 
 ---
