@@ -5,14 +5,21 @@ title: About me
 tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
-image:
-  feature: uf_tmp1.png
+#image:
+  #feature: uf_tmp1.png
   #thumb: LogoIconBlack.jpg
 
 ---
 
 <img src="{{ site.url }}/images/felipe.jpg" width="120">{: .image-pull-right}  My name is **Luis Felipe Ventorim Ferrão** and I'm a **Research Assistant Scientist** at the University of Florida, working in collaboration with Dr. Patricio Munoz at the [Blueberry Breeding and Genomics Lab](https://www.blueberrybreeding.com/). 
 You can read more about my work on this webpage and also see codes, papers and talks associated with my research.
+
+
+<p align="center">
+  <img src="./logo2.png" />
+</p>
+
+
 
 ### Some research topics:
 
