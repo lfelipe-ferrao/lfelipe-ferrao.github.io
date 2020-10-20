@@ -1,5 +1,7 @@
 ## Instructors
 
+<img src="{{ site.url }}/images/logoQG.png" width="120">{: .image-pull-right} 
+
 - Dr. Marcio Resende, (**Course coordinator**)\
 2135 Fifield Hall\
 Phone: 352-273-4772\
