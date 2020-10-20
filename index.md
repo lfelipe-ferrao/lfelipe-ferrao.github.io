@@ -6,7 +6,7 @@ tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
 image:
-  feature: uf2.png
+  feature: uf_tmp1.png
   #thumb: LogoIconBlack.jpg
 
 ---
@@ -19,7 +19,7 @@ You can read more about my work on this webpage and also see codes, papers and t
 ### Some research topics:
 
 <p align="center">
-  <img src="./logo2.png" />
+  <img src="/images/logo2.png" />
 </p>
 
 
