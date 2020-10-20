@@ -15,13 +15,13 @@ modified: 11-6-2014
 You can read more about my work on this webpage and also see codes, papers and talks associated with my research.
 
 
+
+### Some research topics:
+
 <p align="center">
   <img src="./logo2.png" />
 </p>
 
-
-
-### Some research topics:
 
 - Statistical Genetics
 - Computing for Statistical Genetics
@@ -37,3 +37,5 @@ You can read more about my work on this webpage and also see codes, papers and t
 ### External Links
 - [UF-IFAS](https://hos.ifas.ufl.edu/people/on-campus-faculty/)
 - [Blueberry Breeding Program](https://www.blueberrybreeding.com/)
+
+
