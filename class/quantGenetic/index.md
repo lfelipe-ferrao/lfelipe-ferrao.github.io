@@ -1,6 +1,10 @@
-## Instructors
+<p align="center">
+  <img src="http:/logoQG.png" />
+</p>
 
-<img src="{{ site.url }}/logoQG.png" width="150">{: .image-pull-right} 
+
+
+## Instructors
 
 - Dr. Marcio Resende, (**Course coordinator**)\
 2135 Fifield Hall\
