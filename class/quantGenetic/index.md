@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http:/logoQG.png" />
+  <img src="./logoQG.png" />
 </p>
 
 
