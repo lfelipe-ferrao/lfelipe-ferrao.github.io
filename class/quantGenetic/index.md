@@ -112,3 +112,12 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Theory: Resemblance between relatives.
 - Practice:  Progenie test experiments. `asreml-r` package.
+
+**8. Pedigree Analysis**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8.html)
+
+- Theory: Theoretical background on BLUPs
+- Practice:  Half sib family (tree data set) and animal model with deep pedigree (pig data set)
+
