@@ -124,7 +124,7 @@ It is an attempt to organize and make available to any student the class notes u
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8.html)
 
-- Theory: Theoretical background on BLUPs
+- Theory:Theoretical background on BLUPs
 - Practice:  Half sib family (tree data set) and animal model with deep pedigree (pig data set)
 
 **9. Response to Selection**
@@ -132,5 +132,13 @@ It is an attempt to organize and make available to any student the class notes u
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week9.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week9.html)
 
-- Theory: breeder’s equation
-- Practice:   simulation exploring how different parameters impact the response to selection.
+- Theory: Breeder’s equation
+- Practice: Simulation exploring how different parameters impact the response to selection.
+
+**10. Multivariate Models**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week10.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week10.html)
+
+- Theory: multivariate linear mixed models
+- Practice: heterogeneous residual variance and multi-trait  analysis
