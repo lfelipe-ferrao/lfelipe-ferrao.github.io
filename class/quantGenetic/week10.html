@@ -1051,7 +1051,7 @@ img {
 \begin{bmatrix} {X_1} &amp; {0}\\  {0} &amp; {X_2} \end{bmatrix} 
 \begin{bmatrix} {b_1}  \\ {b_2} \end{bmatrix} +
 \begin{bmatrix} {Z_1} &amp; {0}\\  {0} &amp; {Z_2} \end{bmatrix} 
-\begin{bmatrix} {b_1}  \\ {b_2} \end{bmatrix} +
+\begin{bmatrix} {u_1}  \\ {u_2} \end{bmatrix} +
 \begin{bmatrix} {e_1}  \\ {e_2} \end{bmatrix}
 \]</span></p>
 <ul>
@@ -1233,8 +1233,8 @@ R = I \otimes \begin{bmatrix} {\sigma^2_{e_1}} &amp; {\sigma^2_{e_{12}}} \\
 <a class="sourceLine" id="cb1-44" data-line-number="44"><span class="co"># iii) How to compute the h2 when we have multiple residuals?</span></a></code></pre></div>
 </div>
 </div>
-<div id="multi-trait-our-multi-response-model" class="section level2">
-<h2><span class="header-section-number">2.2</span> Multi-trait our multi-response model</h2>
+<div id="multi-trait-or-multi-response-model" class="section level2">
+<h2><span class="header-section-number">2.2</span> Multi-trait or multi-response model</h2>
 <ul>
 <li><p>Multivariate are complex models, in which multiple parameters are estimated at the same time – high computational demand.</p></li>
 <li>A general pipeline is:
@@ -1243,7 +1243,7 @@ R = I \otimes \begin{bmatrix} {\sigma^2_{e_1}} &amp; {\sigma^2_{e_{12}}} \\
 <li>Always start fitting single trait (univariate) models</li>
 <li>Estimate the <code>varcomp</code> values in the single trait analysis – they are good starting values and can help in the multivariate version</li>
 <li>In the multivariate version, start by testing a simple var-cov structures</li>
-<li>Move to more complex VAR-COV models and check the %CPU used (it is common crash the system)</li>
+<li>Move to more complex var-cov models and check the %CPU used (it is common crash the system)</li>
 </ul></li>
 </ul>
 <div id="maize-data-set" class="section level3">
@@ -1625,7 +1625,7 @@ R_0=
         </ul></li>
         <li><a href="#practice"><span class="toc-section-number">2</span> Practice</a><ul>
         <li><a href="#heterogeneous-residual-variance"><span class="toc-section-number">2.1</span> Heterogeneous residual variance</a></li>
-        <li><a href="#multi-trait-our-multi-response-model"><span class="toc-section-number">2.2</span> Multi-trait our multi-response model</a></li>
+        <li><a href="#multi-trait-or-multi-response-model"><span class="toc-section-number">2.2</span> Multi-trait or multi-response model</a></li>
         </ul></li>
         <li><a href="#final-considerations"><span class="toc-section-number">3</span> Final Considerations</a></li>
         <li><a href="#references"><span class="toc-section-number">4</span> References</a></li>
