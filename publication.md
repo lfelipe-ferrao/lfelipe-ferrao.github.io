@@ -17,13 +17,13 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 - Colantonio,V<sup>co</sup>; **Ferrão, LFV**<sup>co</sup>; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.biorxiv.org/content/10.1101/2020.09.17.302802v1), 2020.
 <sup>co:authors contributed equally</sup>
 
-- Cappai, F<sup>co</sup>; Amadeu, RR<sup>co</sup>; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-Resolution Linkage Map and QTL Analyses for Machine Harvest Traits in Autotetraploid Blueberry](https://www.biorxiv.org/content/10.1101/2020.05.13.093633v1), 2020.
-<sup>co:authors contributed equally</sup>
-
-
 ## Articles
 
 ### 2020
+
+
+- Cappai, F<sup>co</sup>; Amadeu, RR<sup>co</sup>; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-resolution linkage map and QTL analyses of fruit firmness in autotetraploid blueberry](https://www.frontiersin.org/articles/10.3389/fpls.2020.562171/abstract), 2020.
+<sup>co:authors contributed equally</sup>
 
 - de Bem Oliveira, I; Amadeu, RR; **Ferrão, LFV**; Munoz, PR. [Optimizing whole-genomic prediction for autotetraploid blueberry breeding](https://www.nature.com/articles/s41437-020-00357-x). Heredity, 2020
 
