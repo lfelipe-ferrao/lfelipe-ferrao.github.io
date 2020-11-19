@@ -141,7 +141,6 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: multivariate linear mixed models
 - Practice: heterogeneous residual variance and multi-trait  analysis
 
-
 **11. Genotype-by-Environment (GxE) Interaction**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11.html)
@@ -149,3 +148,12 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Theory: Finlay and Wilkinson Regression and mixed model
 - Practice: MET analysis for wheat and pine data sets 
+
+
+**12. Genomic Selection**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week12.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week12.html)
+
+- Theory: GBLUP and Realized Genomic Relationships
+- Practice: G matrix, GBLUP and cross-validation 
