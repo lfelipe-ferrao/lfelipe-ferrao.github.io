@@ -157,3 +157,27 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Theory: GBLUP and Realized Genomic Relationships
 - Practice: G matrix, GBLUP and cross-validation 
+
+**13. Genomic Selection -- Dominance Effect**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week13.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week13.html)
+
+- Theory: Dominance effect
+- Practice: Fit additive + dominance GBLUP
+
+**14. Non-Gaussian Responses**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week14.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week14.html)
+
+- Theory: Generalized linear mixed models (GLMMs)
+- Practice: Binomial models with pedigree information in asreml and codes in MCMCglmm and INLA 
+
+**15. Extra: Genetic Value and Mating Desings**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week15.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week15.html)
+
+- Theory: General (GCA) and Specific (SCA) Combining Abilities
+- Practice: Diallel analysis 
