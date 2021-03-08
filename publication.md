@@ -14,6 +14,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Preprint
 
+- **Ferrão, LFV**; Amadeu, RR; Benevenuto, J; de Bem Oliveira, I; Munoz, PR. [Genomic Prediction In An Outcrossing Autotetraploid Fruit Crop: Lessons From Blueberry Breeding](https://www.biorxiv.org/content/10.1101/2021.03.05.434007v1), 2021.
+
 - Colantonio,V<sup>co</sup>; **Ferrão, LFV**<sup>co</sup>; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.biorxiv.org/content/10.1101/2020.09.17.302802v1), 2020.
 <sup>co:authors contributed equally</sup>
 
