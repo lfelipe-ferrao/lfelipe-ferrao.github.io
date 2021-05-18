@@ -21,8 +21,12 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Articles
 
-### 2020
+## 2021
 
+- **Ferrão, LFV**; Amadeu, RR; Benevenuto, J; de Bem Oliveira, I; Munoz, PR. [Genomic Prediction In An Outcrossing Autotetraploid Fruit Crop: Lessons From Blueberry Breeding. Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2021.676326/abstract). doi: 10.3389/fpls.2021.676326
+
+
+### 2020
 
 - Cappai, F<sup>co</sup>; Amadeu, RR<sup>co</sup>; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-resolution linkage map and QTL analyses of fruit firmness in autotetraploid blueberry](https://www.frontiersin.org/articles/10.3389/fpls.2020.562171/abstract), 2020.
 <sup>co:authors contributed equally</sup>
