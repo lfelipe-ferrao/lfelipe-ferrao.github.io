@@ -54,8 +54,8 @@ It is an attempt to organize and make available to any student the class notes u
 - Stephens, M., & Balding, D. J. (2009). Bayesian statistical methods for genetic association studies. Nature Reviews Genetics, 10(10), 681-690.
 
 ### Packages
-- BGLR [reference](https://github.com/gdlc/BGLR-R)
-- JAGS [reference](https://mcmc-jags.sourceforge.io/)
-- MCMCglmm [reference](https://cran.r-project.org/web/packages/MCMCglmm/index.html)
-- Stan [reference](https://mc-stan.org/users/documentation/)
+- [BGLR](https://github.com/gdlc/BGLR-R)
+- [JAGS](https://mcmc-jags.sourceforge.io/)
+- [MCMCglmm](https://cran.r-project.org/web/packages/MCMCglmm/index.html)
+- [Stan](https://mc-stan.org/users/documentation/)
 
