@@ -14,7 +14,6 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Preprint
 
-- **Ferrão, LFV**; Amadeu, RR; Benevenuto, J; de Bem Oliveira, I; Munoz, PR. [Genomic Prediction In An Outcrossing Autotetraploid Fruit Crop: Lessons From Blueberry Breeding](https://www.biorxiv.org/content/10.1101/2021.03.05.434007v1), 2021.
 
 - Colantonio,V<sup>co</sup>; **Ferrão, LFV**<sup>co</sup>; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.biorxiv.org/content/10.1101/2020.09.17.302802v1), 2020.
 <sup>co:authors contributed equally</sup>
@@ -23,13 +22,12 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2021
 
-- **Ferrão, LFV**; Amadeu, RR; Benevenuto, J; de Bem Oliveira, I; Munoz, PR. [Genomic Prediction In An Outcrossing Autotetraploid Fruit Crop: Lessons From Blueberry Breeding](https://www.frontiersin.org/articles/10.3389/fpls.2021.676326/abstract). Frontiers in Plant Science. doi: 10.3389/fpls.2021.676326
+- **Ferrão, LFV**; Amadeu, RR; Benevenuto, J; de Bem Oliveira, I; Munoz, PR. [Genomic Prediction In An Outcrossing Autotetraploid Fruit Crop: Lessons From Blueberry Breeding](https://t.co/FMBh5InFsF?amp=1). Frontiers in Plant Science, 2020.
 
 
 ### 2020
 
-- Cappai, F<sup>co</sup>; Amadeu, RR<sup>co</sup>; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-resolution linkage map and QTL analyses of fruit firmness in autotetraploid blueberry](https://www.frontiersin.org/articles/10.3389/fpls.2020.562171/abstract), 2020.
-<sup>co:authors contributed equally</sup>
+- Cappai, F<sup>co</sup>; Amadeu, RR<sup>co</sup>; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-resolution linkage map and QTL analyses of fruit firmness in autotetraploid blueberry](https://www.frontiersin.org/articles/10.3389/fpls.2020.562171/abstract). Frontiers in Plant Science, 2020. <sup>co:authors contributed equally</sup>
 
 - de Bem Oliveira, I; Amadeu, RR; **Ferrão, LFV**; Munoz, PR. [Optimizing whole-genomic prediction for autotetraploid blueberry breeding](https://www.nature.com/articles/s41437-020-00357-x). Heredity, 2020
 
