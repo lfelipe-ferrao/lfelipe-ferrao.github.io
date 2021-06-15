@@ -32,12 +32,15 @@ This is an attempt to organize and make available to any student the class notes
 
 - Bayesian Data Analysis in a Nutshell [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/Bayesian.pdf)
 
-**2. Hands-n**
+**2. Hands-on rstan**
 
 - Introduction to Probabilistic Language (rstan) [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/RegressionBayes.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/RegressionBayes.html)
+
+**3. Hands-on BGLR**
 
 - Use of Bayesian Statistics for genomic prediction (BGLR package)[[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/BGLR.html)
-
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/BGLR.html)
 
 ## References
 
