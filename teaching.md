@@ -12,6 +12,12 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ---
 
+
+### Workshop and Talks 
+
+- [2021 - Introduction to Bayesian Statistics](class/Bayesian/index.md)
+
+
 ### Fall 2020
 
 - [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
