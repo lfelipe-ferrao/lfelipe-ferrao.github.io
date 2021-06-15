@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bayes.png" />
+  <img src="./path2447.png" />
 </p>
 
 ## Instructors
