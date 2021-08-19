@@ -22,7 +22,9 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2021
 
-- **Ferrão, LFV**; Amadeu, RR; Benevenuto, J; de Bem Oliveira, I; Munoz, PR. [Genomic Prediction In An Outcrossing Autotetraploid Fruit Crop: Lessons From Blueberry Breeding](https://t.co/FMBh5InFsF?amp=1). Frontiers in Plant Science, 2020.
+- Sater, H; **Ferrão,LFV**; Olmstead, J; Munoz, PR; Bai, J; Hopf, A; Plotto, A. [Exploring environmental and storage factors affecting sensory, physical and chemical attributes of six southern highbush blueberry cultivars](https://www.sciencedirect.com/science/article/pii/S0304423821005756?dgcid=author).Scientia Horticulturae,2021.
+
+- **Ferrão, LFV**; Amadeu, RR; Benevenuto, J; de Bem Oliveira, I; Munoz, PR. [Genomic Prediction In An Outcrossing Autotetraploid Fruit Crop: Lessons From Blueberry Breeding](https://t.co/FMBh5InFsF?amp=1). Frontiers in Plant Science, 2021.
 
 
 ### 2020
