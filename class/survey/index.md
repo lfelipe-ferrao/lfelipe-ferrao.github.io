@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./tmp.png" />
+  <img  width="300" height="200" src="./tmp.png" />
 </p>
 
 ## Instructors
