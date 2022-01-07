@@ -5,10 +5,10 @@
 ## Instructors
 
 - Dr.Patricio Munoz, (**Course coordinator**)\
-University of Florida\
+University of Florida
 
-- Dr. Felipe Ferrão\
-University of Florida\
+- Dr. Felipe Ferrão, (**Course coordinator**)\
+University of Florida
 
 ## Course Description
 
