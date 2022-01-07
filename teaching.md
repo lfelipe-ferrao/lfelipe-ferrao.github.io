@@ -15,7 +15,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ### Classes
 
-- Spring 2021: HOS 6932 -- [Survey of Breeding Tools and Methods](class/quantGenetic/survey.md)
+- Spring 2021: HOS 6932 -- [Survey of Breeding Tools and Methods](class/survey/index.md)
 
 - Fall 2020: [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
 - Fall 2018: [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.md)
