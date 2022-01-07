@@ -12,9 +12,7 @@ University of Florida\
 
 ## Course Description
 
-This talk aims to be a friendly introduction to Bayesian analysis. Whenever we introduce new concepts, we keep the mathematics to a minimum and focus instead on the intuition behind the theory. 
-For this class, we also do not assume any prior knowledge of probability (which is central to Bayesian analysis) or calculus. Nor do we advocate in favor of Bayesian analysis, instead of the frequentist school. The idea here is to provide an introduction on this topic and, hopefully, 
-motivate students in genetics and plant breeding to use this tool for practical analyzes.
+Let's grab some coffee and discuss methods and techniques used in plant breeding. Survey of Breeding Tools and Methods (HOS 6932) is an introductory class at the [UF/IFA Plant Breeding](https://programs.ifas.ufl.edu/plant-breeding/graduate-program/) graduate course. The intent of the course is to help students understand the breadth of disciplines in the vibrant field of plant breeding. The course will be taught by experts using these techniques and methods in their plant breeding. I am the instructor of the **Quantitative Genetics and Genomic Selection** module.   
 
 ## Class notes and Hands-on
 
@@ -28,38 +26,8 @@ This is an attempt to organize and make available to any student the class notes
 [Download] = link for downloading the files. 
 ```
 
-**1. Theory**
+**1. Introduction to Quantitative Genetics**
 
-- Bayesian Data Analysis in a Nutshell [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/Bayesian.pdf)
 
-**2. Hands-on rstan**
 
-- Introduction to Probabilistic Language (rstan) [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/RegressionBayes.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/RegressionBayes.html)
-
-**3. Hands-on BGLR**
-
-- Use of Bayesian Statistics for genomic prediction (BGLR package)[[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/BGLR.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/BGLR.html)
-
-## References
-
-### Books 
-- Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). Bayesian data analysis. CRC press.[Link for the Book](http://www.stat.columbia.edu/~gelman/book/)
-- Kruschke, J. (2014). Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan. [Link for the book](https://jkkweb.sitehost.iu.edu/index.html)
-- Lambert, B. (2018) A Student's Guide to Bayesian Statistics. [Link for the book](https://ben-lambert.com/about/)
-- McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC. [Link for the book](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/nse2.20026)
-
-### Papers
-- Beaumont, M. A., & Rannala, B. (2004). The Bayesian revolution in genetics. Nature Reviews Genetics, 5(4), 251-261.
-- Blasco, A. (2001). The Bayesian controversy in animal breeding. Journal of animal science, 79(8), 2023-2046.
-- Kruschke, J. K., Aguinis, H., & Joo, H. (2012). The time has come: Bayesian methods for data analysis in the organizational sciences. Organizational Research Methods, 15(4), 722-752.
-- Muth, C., Oravecz, Z., & Gabry, J. (2018). User-friendly Bayesian regression modeling: A tutorial with rstanarm and shinystan. Quantitative Methods for Psychology, 14(2), 99-119.
-- Stephens, M., & Balding, D. J. (2009). Bayesian statistical methods for genetic association studies. Nature Reviews Genetics, 10(10), 681-690.
-
-### Packages
-- [BGLR](https://github.com/gdlc/BGLR-R)
-- [JAGS](https://mcmc-jags.sourceforge.io/)
-- [MCMCglmm](https://cran.r-project.org/web/packages/MCMCglmm/index.html)
-- [Stan](https://mc-stan.org/users/documentation/)
 
