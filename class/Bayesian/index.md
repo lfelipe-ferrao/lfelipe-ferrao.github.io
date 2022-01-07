@@ -27,7 +27,7 @@ This is an attempt to organize and make available to any student the class notes
 ```
 
 **1. Theory**
-- Bayesian Data Analysis in a Nutshell [[pdf]]()
+- Bayesian Data Analysis in a Nutshell [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/Bayesian.pdf)
 
 **2. Hands-on rstan**
 
