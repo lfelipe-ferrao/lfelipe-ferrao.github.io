@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="./path2447.png" />
+  <img src="./tmp.png" />
 </p>
 
 ## Instructors
 
-- Dr. Guilherme Pereira, (**Course coordinator**)\
-Federal University of Viçosa\
+- Dr.Patricio Munoz, (**Course coordinator**)\
+University of Florida\
 
 - Dr. Felipe Ferrão\
 University of Florida\
 
 ## Course Description
 
-This talk aims to be a friendly introduction to Bayesian analysis. Whenever we introduce new concepts, we keep the mathematics to a minimum and focus instead on the intuition behind the theory. 
-For this class, we also do not assume any prior knowledge of probability (which is central to Bayesian analysis) or calculus. Nor do we advocate in favor of Bayesian analysis, instead of the frequentist school. The idea here is to provide an introduction on this topic and, hopefully, 
-motivate students in genetics and plant breeding to use this tool for practical analyzes.
+Let's grab some coffee and discuss methods and techniques used in plant breeding. Survey of Breeding Tools and Methods (HOS 6932) is an introductory class at the [UF/IFA Plant Breeding](https://programs.ifas.ufl.edu/plant-breeding/graduate-program/) graduate course. The intent of the course is to help students understand the breadth of disciplines in the vibrant field of plant breeding. The course will be taught by experts using these techniques and methods in their plant breeding. I am the instructor of the **Quantitative Genetics and Genomic Selection** module.  
