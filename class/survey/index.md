@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./tmp.png" />
     width="200" 
-    height="200"
+    height="200" />
 </p>
 
 ## Instructors
