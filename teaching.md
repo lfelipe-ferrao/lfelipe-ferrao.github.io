@@ -13,20 +13,19 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 ---
 
 
+### Classes
+
+- Spring 2021: HOS 6932 -- [Survey of Breeding Tools and Methods](class/quantGenetic/survey.md)
+
+- Fall 2020: [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
+- Fall 2018: [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.md)
+
 ### Workshop and Talks 
 
 - [2021 - Introduction to Bayesian Statistics](class/Bayesian/index.md)
 
 
-### Fall 2020
-
-- [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
-
-### Fall 2018
-
-- [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.md)
-
-### Fall 2017
+### Others
 
 - [HOS 6236 - Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/) 
 - [LGN 5830 - Biometria de Marcadores Genéticos](http://augustogarcia.me/Biometria-de-Marcadores/)
