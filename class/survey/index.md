@@ -61,6 +61,10 @@ It is an attempt to organize and make available to any student the class notes u
 **2.Statistical Learning and Whole-Genome Regression Models**
 
 - Class 2[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Class2_LinearModelRegularization%20.pdf)
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/3.GS.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/3.GS.html)
 
 - Theory: Introduction to Statistical Learning, rrBLUP and GBLUP 
+- Practice: rrBLUP vs. GBLUP, cross validation, shinny app
+
 
