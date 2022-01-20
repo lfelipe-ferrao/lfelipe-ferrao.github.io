@@ -69,7 +69,7 @@ It is an attempt to organize and make available to any student the class notes u
 
 **3.Theoretical and Practical Aspects for Genomic Selection Implementation**
 
-- Class 3[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Class2_LinearModelRegularization%20.pdf)
+- Class 3[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Class3_GS.pdf)
 
 - Theory: Implementing genomic selection, blueberry example
 
