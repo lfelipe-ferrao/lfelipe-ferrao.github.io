@@ -20,6 +20,10 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Articles
 
+## 2022
+- Colantonio,V<sup>co</sup>; **Ferrão, LFV**<sup>co</sup>; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.pnas.org/content/119/7/e2115865119), 2022, PNAS.
+<sup>co:authors contributed equally</sup>
+
 ## 2021
 
 - Sater, H; **Ferrão,LFV**; Olmstead, J; Munoz, PR; Bai, J; Hopf, A; Plotto, A. [Exploring environmental and storage factors affecting sensory, physical and chemical attributes of six southern highbush blueberry cultivars](https://www.sciencedirect.com/science/article/pii/S0304423821005756?dgcid=author).Scientia Horticulturae,2021.
