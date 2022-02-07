@@ -14,14 +14,10 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Preprint
 
-
-- Colantonio,V<sup>co</sup>; **Ferrão, LFV**<sup>co</sup>; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.biorxiv.org/content/10.1101/2020.09.17.302802v1), 2020.
-<sup>co:authors contributed equally</sup>
-
 ## Articles
 
 ## 2022
-- Colantonio,V<sup>co</sup>; **Ferrão, LFV**<sup>co</sup>; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.pnas.org/content/119/7/e2115865119), 2022, PNAS.
+- Colantonio,V<sup>co</sup>; **Ferrão, LFV**<sup>co</sup>; Tieman, D; Bliznyuk, N; Sims, C; Klee, H; Munoz, PR; Resende Jr, MFR. [Metabolomic Selection for Enhanced Fruit Flavor](https://www.pnas.org/content/119/7/e2115865119), PNAS,2022.
 <sup>co:authors contributed equally</sup>
 
 ## 2021
