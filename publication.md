@@ -12,11 +12,11 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 ---
 
 
-## Preprint
-
 ## Articles
 
 ## 2022
+
+-  **Ferrão,LFV**;Sater, H; Lyrene, P; Amadeu, RR; Sims, CH; Tieman,DM; Munoz, PR [Terpene volatiles mediates the chemical basis of blueberry aroma and consumer acceptability]([https://www.sciencedirect.com/science/article/pii/S0304423821005756?dgcid=author](https://www.sciencedirect.com/science/article/pii/S0963996922005269)).Food International Research,2022.
 
 - Edger, P; Iorizzo M; Bassil, N; Benevenuto, J; **Ferrão, LFV** et al.  [There and back again; historical perspective and future directions for Vaccinium breeding and research studies](https://academic.oup.com/hr/advance-article/doi/10.1093/hr/uhac083/6566416?login=true). Horticultural Research, 2022 
 
