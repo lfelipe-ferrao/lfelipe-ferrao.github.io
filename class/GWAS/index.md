@@ -38,3 +38,10 @@ This is an attempt to organize and make available to any student the class notes
 [Download] = link for downloading the files. 
 ```
 
+**1. Introduction to Phenotypic Analyses for GWAS studies** 
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/GWAS/1.Phenotypic.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/GWAS/1.Phenotypic.html)
+
+- Theory: Introduction to mixed models
+- Practice: `asreml-R` for analyses of phenotypic data, using blueberry as example
