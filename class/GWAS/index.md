@@ -18,9 +18,13 @@ In recent years, the blueberry breeding program has focused its efforts on under
 
 Some important points that deserve additional comments. The pipeline presented here is a "generic" pipeline. By "generic",  we mean that this is a starting point by just presenting general practices for performing GWAS analyses. Of course, each project has its particularity, with different experimental designs and specific data collection. All these aspects should be carefully thought out rather than running automated analyses. Simply stating, there is no magic recipe that works for all situations and that is why it is very important to check all the steps and make adaptations or test new methods whenever possible.
 
-The second important aspect, we see any GWAS implementation as an integrated approach where it is necessary to add multiple expertises. That is, identifying associations per se is just a process of statistical genetics and technically does not mean that it is the end of the study. Our group has invested a lot of time to make sense of the identified associations, which makes a professional working in computational biology crucial in this regard. Finally, we invested resources in molecular biology aspects to validate our findings. With that in mind, we strongly believe that it is the interplay between statistical genetics for detecting association, computational biology for making biological sense, and molecular biology for future validations that makes GWAS more relevant for practical application
+The second important aspect, we see any GWAS implementation as an integrated approach where it is necessary to add multiple expertises. That is, identifying associations per se is just a process of statistical genetics and technically does not mean that it is the end of the study. Our group has invested a lot of time to make sense of the identified associations, which makes a professional working in computational biology crucial in this regard. Finally, we invested resources in molecular biology aspects to validate our findings. With that in mind, we strongly believe that it is the interplay between **statistical genetics** for detecting association, **computational biology** for making biological sense, and **molecular biology** for future validations that makes GWAS more relevant for practical application
 
+Below, the workflow that will be addressed in the workshop. 
 
+<p align="center">
+  <img src="./GWASpipeline.png" />
+</p>
 
 ## Class notes and Hands-on
 
