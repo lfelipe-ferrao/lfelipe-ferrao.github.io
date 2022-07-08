@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gwas_logo.png" height="80" width="100"/>
+  <img src="./gwas_logo.png" height="180" width="200"/>
 </p>
 
 ## Instructors
