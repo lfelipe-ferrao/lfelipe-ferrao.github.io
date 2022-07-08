@@ -23,7 +23,7 @@ The second important aspect, we see any GWAS implementation as an integrated app
 Below, the workflow that will be addressed in the workshop. 
 
 <p align="center">
-  <img src="./GWASpipeline.png" />
+  <img src="./GWASpipeline.png" / height="700" width="700">
 </p>
 
 ## Class notes and Hands-on
