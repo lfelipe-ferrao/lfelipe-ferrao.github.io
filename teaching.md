@@ -22,6 +22,9 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ### Workshop and Talks 
 
+- [2022 - Hands-on tutorial to Genome-wide Association Studies (GWAS)](class/GWAS/index.md)
+
+
 - [2021 - Introduction to Bayesian Statistics](class/Bayesian/index.md)
 
 
