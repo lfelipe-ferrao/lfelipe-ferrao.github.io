@@ -14,18 +14,18 @@ University of Florida\
 
 Current typical GWAS  measure hundreds of thousands, or millions, of genetic variants (typically Single Nucleotide Polymorphisms, or SNPs), in hundreds, thousands of individuals, with the primary goal being to identify which regions of the genome harbor SNPs that affect some phenotype or outcome of interest.
 
-
 In recent years, the blueberry breeding program has focused its efforts on understanding the genetic architecture of complex traits associated with fruit quality. With multiple students working on different projects related to phenotype-genotype association analysis (via GWAS and QTL mapping), we decided to create this short practical tutorial to unify some of our routines and share experiences.
 
+**Comment 1*
+
+The pipeline presented here is a "generic" pipeline. By "generic", we mean that this should be viwed as a starting point in which we are presenting general practices for performing GWAS analyses. Of course, each project has its particularity -- different experimental designs, data collection, models and etc etc. All these aspects should be carefully thought when perfoming any statistical analyses. Running automated analyses by just recycling codes is not a good idea. Simply stating, there is no magic recipe that works for all situations and that is why it is very important to check all the steps and make adaptations or tests whenever necessary and possible. Be curious! Ask questions! Create hypotheses!
+
+**Comment 2**
+
+The second important aspect. We see any practical GWAS implementation as an integrated approach where it is necessary to add multiple expertises. This is the way that the blueberry breeding program has approached GWAS analyses and using it for guide breeding decisions using marker-assisted selection. With that in mind, identifying associations per se is just a statistical genetics process and technically does not mean that it is the end of the study. Our group has focused on making sense of the identified associations. Therefore, professional (and students) working in computational biology are crucial in this regard. With increased computational power and multiple software available for GWAS analysis ,gene mining is indeed a phase that takes a lot of time and reflection. Finally, our practical framework involves molecular biology and its crucial role on validating the statistical findings. With that in said, we strongly believe that it is the interplay between **statistical genetics** for detecting association, **computational biology** for making biological sense, and **molecular biology** for future validations, that makes GWAS more relevant for practical application
 
 
-Some important points that deserve additional comments. The pipeline presented here is a "generic" pipeline. By "generic",  we mean that this is a starting point by just presenting general practices for performing GWAS analyses. Of course, each project has its particularity, with different experimental designs and specific data collection. All these aspects should be carefully thought out rather than running automated analyses. Simply stating, there is no magic recipe that works for all situations and that is why it is very important to check all the steps and make adaptations or test new methods whenever possible.
-
-
-The second important aspect, we see any GWAS implementation as an integrated approach where it is necessary to add multiple expertises. That is, identifying associations per se is just a process of statistical genetics and technically does not mean that it is the end of the study. Our group has invested a lot of time to make sense of the identified associations, which makes a professional working in computational biology crucial in this regard. Finally, we invested resources in molecular biology aspects to validate our findings. With that in mind, we strongly believe that it is the interplay between **statistical genetics** for detecting association, **computational biology** for making biological sense, and **molecular biology** for future validations that makes GWAS more relevant for practical application
-
-
-- Below, the workflow that will be addressed in the workshop. 
+**The workflow* 
 
 
 <p align="center">
