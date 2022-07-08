@@ -16,7 +16,7 @@ Current typical GWAS  measure hundreds of thousands, or millions, of genetic var
 
 In recent years, the blueberry breeding program has focused its efforts on understanding the genetic architecture of complex traits associated with fruit quality. With multiple students working on different projects related to phenotype-genotype association analysis (via GWAS and QTL mapping), we decided to create this short practical tutorial to unify some of our routines and share experiences.
 
-**Comment 1*
+**Comment 1**
 
 The pipeline presented here is a "generic" pipeline. By "generic", we mean that this should be viwed as a starting point in which we are presenting general practices for performing GWAS analyses. Of course, each project has its particularity -- different experimental designs, data collection, models and etc etc. All these aspects should be carefully thought when perfoming any statistical analyses. Running automated analyses by just recycling codes is not a good idea. Simply stating, there is no magic recipe that works for all situations and that is why it is very important to check all the steps and make adaptations or tests whenever necessary and possible. Be curious! Ask questions! Create hypotheses!
 
