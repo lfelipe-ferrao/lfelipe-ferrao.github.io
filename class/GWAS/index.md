@@ -12,10 +12,11 @@ University of Florida\
 
 ## Workshop Description
 
-Current typical GWAS  measure hundreds of thousands, or millions, of genetic variants (typically Single Nucleotide Polymorphisms, or SNPs), in hundreds, thousands of individuals, with the primary goal being to identify which regions of the genome harbor SNPs that affect some phenotype or outcome of interest.\\
+Current typical GWAS  measure hundreds of thousands, or millions, of genetic variants (typically Single Nucleotide Polymorphisms, or SNPs), in hundreds, thousands of individuals, with the primary goal being to identify which regions of the genome harbor SNPs that affect some phenotype or outcome of interest.\
 
 
 In recent years, the blueberry breeding program has focused its efforts on understanding the genetic architecture of complex traits associated with fruit quality. With multiple students working on different projects related to phenotype-genotype association analysis (via GWAS and QTL mapping), we decided to create this short practical tutorial to unify some of our routines and share experiences.
+&nbsp
 
 
 Some important points that deserve additional comments. The pipeline presented here is a "generic" pipeline. By "generic",  we mean that this is a starting point by just presenting general practices for performing GWAS analyses. Of course, each project has its particularity, with different experimental designs and specific data collection. All these aspects should be carefully thought out rather than running automated analyses. Simply stating, there is no magic recipe that works for all situations and that is why it is very important to check all the steps and make adaptations or test new methods whenever possible.
