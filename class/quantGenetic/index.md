@@ -65,5 +65,12 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory:Introduction to PorGen
 - Practice: Introduction to R applied to popgen analyses
 
+**2. Means,Genotypic Values and Breeding Values**
 
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2_2022.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week3.html)
+
+- Theory: Genetic Effect of complex traits
+- Practice: Introduction to Experimental Design and ANOVA
  
+- Extra: Fast introduction to linear models -- why do we need statiscal models and matrices? [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2a_2022.html)
