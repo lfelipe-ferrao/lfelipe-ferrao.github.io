@@ -15,16 +15,13 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ### Classes
 
-- Spring 2021: HOS 6932 -- [Survey of Breeding Tools and Methods](class/survey/index.md)
-
-- Fall 2020: [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
-- Fall 2018: [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.md)
+- [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
+- [HOS 6932 - Survey of Breeding Tools and Methods](class/survey/index.md)
+- [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.md)
 
 ### Workshop and Talks 
 
 - [2022 - Hands-on tutorial to Genome-wide Association Studies (GWAS)](class/GWAS/index.md)
-
-
 - [2021 - Introduction to Bayesian Statistics](class/Bayesian/index.md)
 
 
