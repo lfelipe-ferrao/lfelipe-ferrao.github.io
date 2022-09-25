@@ -73,4 +73,5 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Genetic Effect of complex traits
 - Practice: Introduction to Experimental Design and ANOVA
  
-- Extra: Fast introduction to linear models -- why do we need statiscal models and matrices? [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2a_2022.html)
+- Extra: 
+  - Short introduction to linear models [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2a_2022.html)
