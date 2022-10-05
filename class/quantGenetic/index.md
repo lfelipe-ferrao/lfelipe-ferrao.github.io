@@ -83,5 +83,3 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Theory: Dominance deviation and the Biometric Model
 - Practice: a toy example on simulating a simpre regression model in R and the Biometric Model
-
-- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5.html)
