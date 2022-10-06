@@ -93,4 +93,4 @@ It is an attempt to organize and make available to any student the class notes u
 - Practice: Mixed Models compared to traditional ANOVA
 
 - Extra: 
-  - Introduction to asreml-R [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/2ntro_ASREML.html)
+  - Introduction to asreml-R [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/2Intro_ASREML.html)
