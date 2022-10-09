@@ -1132,14 +1132,14 @@ methodology.</p>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>            <span class="at">random=</span> <span class="sc">~</span>RIL, </span>
 <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>            <span class="at">data=</span>maize.env1)</span></code></pre></div>
 <pre><code>## Model fitted using the gamma parameterization.
-## ASReml 4.1.0 Sat Oct  8 21:04:48 2022
+## ASReml 4.1.0 Sat Oct  8 21:23:35 2022
 ##           LogLik        Sigma2     DF     wall    cpu
-##  1      -424.211       328.801    122 21:04:48    0.0
-##  2      -398.415       123.156    122 21:04:48    0.0
-##  3      -387.129        69.986    122 21:04:48    0.0
-##  4      -383.986        53.152    122 21:04:48    0.0
-##  5      -383.523        47.177    122 21:04:48    0.0
-##  6      -383.519        46.609    122 21:04:48    0.0</code></pre>
+##  1      -424.211       328.801    122 21:23:35    0.0
+##  2      -398.415       123.156    122 21:23:35    0.0
+##  3      -387.129        69.986    122 21:23:35    0.0
+##  4      -383.986        53.152    122 21:23:35    0.0
+##  5      -383.523        47.177    122 21:23:35    0.0
+##  6      -383.519        46.609    122 21:23:35    0.0</code></pre>
 <div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Traditional (VG/VP)</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">vpredict</span>(m1,h2<span class="sc">~</span>V1<span class="sc">/</span>(V1<span class="sc">+</span>V2))</span></code></pre></div>
 <pre><code>##     Estimate        SE
@@ -1148,26 +1148,26 @@ methodology.</p>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>vc.g <span class="ot">&lt;-</span> <span class="fu">summary</span>(m1)<span class="sc">$</span>varcomp[<span class="st">&#39;RIL&#39;</span>,<span class="st">&#39;component&#39;</span>]</span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>vdBLUP.mat <span class="ot">&lt;-</span> <span class="fu">predict</span>(m1, <span class="at">classify=</span><span class="st">&quot;RIL&quot;</span>, <span class="at">only=</span><span class="st">&quot;RIL&quot;</span>, <span class="at">sed=</span><span class="cn">TRUE</span>)<span class="sc">$</span>sed<span class="sc">^</span><span class="dv">2</span> <span class="co"># obtain squared s.e.d. matrix </span></span></code></pre></div>
 <pre><code>## Model fitted using the gamma parameterization.
-## ASReml 4.1.0 Sat Oct  8 21:04:48 2022
+## ASReml 4.1.0 Sat Oct  8 21:23:35 2022
 ##           LogLik        Sigma2     DF     wall    cpu
-##  1      -383.519       46.6027    122 21:04:49    0.0
-##  2      -383.519       46.6027    122 21:04:49    0.0
-##  3      -383.519       46.6027    122 21:04:49    0.0</code></pre>
+##  1      -383.519       46.6027    122 21:23:35    0.0
+##  2      -383.519       46.6027    122 21:23:35    0.0
+##  3      -383.519       46.6027    122 21:23:35    0.0</code></pre>
 <div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>vdBLUP.avg <span class="ot">&lt;-</span> <span class="fu">mean</span>(vdBLUP.mat[<span class="fu">upper.tri</span>(vdBLUP.mat, <span class="at">diag=</span><span class="cn">FALSE</span>)]) <span class="co"># take mean of upper triangle</span></span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">-</span> (vdBLUP.avg <span class="sc">/</span> <span class="dv">2</span> <span class="sc">/</span> vc.g)</span></code></pre></div>
 <pre><code>## [1] 0.9364485</code></pre>
 <div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="co"># # Piepho Fixed Model</span></span>
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>m2 <span class="ot">=</span> <span class="fu">asreml</span>(height <span class="sc">~</span> rep<span class="sc">+</span>RIL, <span class="at">data=</span>maize.env1) <span class="co"># Fixed Model to obtain the BLUEs</span></span></code></pre></div>
 <pre><code>## Model fitted using the gamma parameterization.
-## ASReml 4.1.0 Sat Oct  8 21:04:49 2022
+## ASReml 4.1.0 Sat Oct  8 21:23:35 2022
 ##           LogLik        Sigma2     DF     wall    cpu
-##  1      -170.875       46.6027     61 21:04:49    0.0</code></pre>
+##  1      -170.875       46.6027     61 21:23:35    0.0</code></pre>
 <div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>vdBLUE.mat <span class="ot">&lt;-</span> <span class="fu">predict</span>(m2, <span class="at">classify=</span><span class="st">&quot;RIL&quot;</span>, <span class="at">sed=</span><span class="cn">TRUE</span>)<span class="sc">$</span>sed<span class="sc">^</span><span class="dv">2</span> <span class="co"># obtain squared s.e.d. matrix </span></span></code></pre></div>
 <pre><code>## Model fitted using the gamma parameterization.
-## ASReml 4.1.0 Sat Oct  8 21:04:49 2022
+## ASReml 4.1.0 Sat Oct  8 21:23:35 2022
 ##           LogLik        Sigma2     DF     wall    cpu
-##  1      -170.875       46.6027     61 21:04:49    0.0
-##  2      -170.875       46.6027     61 21:04:49    0.0</code></pre>
+##  1      -170.875       46.6027     61 21:23:36    0.0
+##  2      -170.875       46.6027     61 21:23:36    0.0</code></pre>
 <div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>vdBLUE.avg <span class="ot">&lt;-</span> <span class="fu">mean</span>(vdBLUE.mat[<span class="fu">upper.tri</span>(vdBLUE.mat, <span class="at">diag=</span><span class="cn">FALSE</span>)]) <span class="co"># take mean of upper triangle</span></span>
 <span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>vc.g<span class="sc">/</span>(vc.g <span class="sc">+</span> vdBLUE.avg<span class="sc">/</span><span class="dv">2</span>)</span></code></pre></div>
 <pre><code>## [1] 0.936448</code></pre>
@@ -1231,14 +1231,15 @@ link</a></li>
 		// add bootstrap table styles to pandoc tables
 	$('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 		
- 		
+ 	 	$('#content img').addClass("image-thumb");
+		
 		$('#content img:not(.no-lightbox)').addClass("image-lb");
 	$('#content').magnificPopup({
 	    type:'image',
 	    closeOnContentClick: false,
 	    closeBtnInside: false,
 	    delegate: '.image-lb',
-	    gallery: {enabled: true },
+	    gallery: {enabled: false },
 	    image: {
 	        verticalFit: true,
 		titleSrc: 'alt'
