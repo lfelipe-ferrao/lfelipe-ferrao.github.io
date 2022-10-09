@@ -94,3 +94,14 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Extra: 
   - Introduction to asreml-R [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/2Intro_ASREML.html)
+
+**5. Genetic Variance and Heritability**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_2022.html)
+
+- Theory: Total genetic, additive and dominance variances. Heritability theory
+- Practice: app to check the components of the genetic variance and their relationship to the allele frequencies.
+
+- Extra: 
+  - Alternative Heritability Measures [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/h2_2022.html)
