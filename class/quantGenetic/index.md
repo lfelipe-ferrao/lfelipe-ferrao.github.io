@@ -122,3 +122,14 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Theoretical background on BLUPs
 - Practice:  Half sib family (tree data set) and animal model with deep pedigree (pig data set)
 
+**8. Response to Selection**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week9_2022.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week9_2022.html)
+
+- Theory: Breeder’s equation
+- Practice: Simulation exploring how different parameters impact the response to selection.
+
+- Extra: 
+  - AlphaSims simulation [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week9_AlphaSim.html)
+
