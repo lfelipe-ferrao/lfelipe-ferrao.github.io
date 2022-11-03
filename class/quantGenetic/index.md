@@ -133,3 +133,11 @@ It is an attempt to organize and make available to any student the class notes u
 - Extra: 
   - AlphaSims simulation [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week9_AlphaSim.html)
 
+**9. Multivariate Models**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week10_2022.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week10_2022.html)
+
+- Theory: multivariate linear mixed models
+- Practice: heterogeneous residual variance and multi-trait  analysis
+
