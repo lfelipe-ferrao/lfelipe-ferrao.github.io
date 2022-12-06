@@ -160,3 +160,26 @@ It is an attempt to organize and make available to any student the class notes u
 - Extra: 
   - AMMI and Biplot Analyses [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_2022a.html)
   - Factor Analytic and Mixed Models [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_2022b.html)
+
+**12. Genomic Selection**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week12_2022.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week12_2022.html)
+
+- Theory: GBLUP and Realized Genomic Relationships
+- Practice: G matrix, GBLUP and cross-validation 
+
+- Extra (classes from the last year and from other courses)
+  - GS and CVs [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week12.html)
+  - GS + dominance [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week13.html)
+  - rrBLUP vs GBLUP [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/3.GS.html)
+
+
+**Extra classes**
+
+- Non-Gaussian Responses [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week14.html)
+- Genetic Value and Mating Desings [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week15.html)
+
+
+
+
