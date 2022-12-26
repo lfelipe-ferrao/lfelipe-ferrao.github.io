@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2022
 
+- Dias, RD; Johnsona, TA; **Ferrão, LFV**, Munoz, PR; de la Mata, P; Harynuk, JJ. [Improved sample storage, preparation and extraction of blueberry aroma volatile organic compounds for gas chromatography](https://www.sciencedirect.com/science/article/pii/S2772391722000457?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=140265872&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM325336&utm_source=AC_). Journal of Chromatography Open, 2022
+
 -  **Ferrão,LFV**;Sater, H; Lyrene, P; Amadeu, RR; Sims, CH; Tieman,DM; Munoz, PR [Terpene volatiles mediates the chemical basis of blueberry aroma and consumer acceptability](https://www.sciencedirect.com/science/article/pii/S0963996922005269).Food International Research,2022.
 
 - Edger, P; Iorizzo M; Bassil, N; Benevenuto, J; **Ferrão, LFV** et al.  [There and back again; historical perspective and future directions for Vaccinium breeding and research studies](https://academic.oup.com/hr/advance-article/doi/10.1093/hr/uhac083/6566416?login=true). Horticultural Research, 2022 
