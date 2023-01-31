@@ -51,25 +51,25 @@ It is an attempt to organize and make available to any student the class notes u
 ```
 **1. Introduction to Quantitative Genetics** 
 
-- Class 1[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Class1_Introduction.pdf)
-- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/1.Introduction.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/1.Introduction.html)
+- Class 1[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Introduction_2022.pdf)
+- Hands-on [html]
+- Download [html]
 
 - Theory:Introduction to Quantitative Genetics
 - Practice: Shinny app
 
 **2.Statistical Learning and Whole-Genome Regression Models**
 
-- Class 2[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Class2_LinearModelRegularization%20.pdf)
-- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/3.GS.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/3.GS.html)
+- Class 2[pdf]
+- Hands-on [html]
+- Download [html]
 
 - Theory: Introduction to Statistical Learning, rrBLUP and GBLUP 
 - Practice: rrBLUP vs. GBLUP, cross validation, shinny app
 
 **3.Theoretical and Practical Aspects for Genomic Selection Implementation**
 
-- Class 3[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Class3_GS.pdf)
+- Class 3[pdf]
 
 - Theory: Implementing genomic selection, blueberry example
 
