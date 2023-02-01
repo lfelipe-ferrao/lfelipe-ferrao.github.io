@@ -14,6 +14,12 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Articles
 
+## 2023
+
+- Carvalho, HF; **Ferrão, LFV**; Galli, G;  Nonato, JVA; Padilha, L; Maluf, MR; Resende Jr, MFR; Fritsche‑Neto, R; Guerreiro-Filho, O; [On the accuracy of threshold genomic prediction models for leaf miner and leaf rust resistance in arabica cofee](https://link.springer.com/article/10.1007/s11295-022-01581-8).  Tree Genetics & Genomes. 2023 
+
+
+
 ## 2022
 
 - Dias, RD; Johnsona, TA; **Ferrão, LFV**, Munoz, PR; de la Mata, P; Harynuk, JJ. [Improved sample storage, preparation and extraction of blueberry aroma volatile organic compounds for gas chromatography](https://www.sciencedirect.com/science/article/pii/S2772391722000457?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=140265872&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM325336&utm_source=AC_). Journal of Chromatography Open, 2022
