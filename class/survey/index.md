@@ -59,7 +59,7 @@ It is an attempt to organize and make available to any student the class notes u
 
 **2.Statistical Learning and Whole-Genome Regression Models**
 
-- Class 2[pdf]
+- Class 2[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/2.LinearModelRegularization.pdf)
 - Hands-on [html]
 - Download [html]
 
