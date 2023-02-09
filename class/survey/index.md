@@ -75,6 +75,6 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Class 4 [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Survey.pdf)
 
-- Theory: key lessosn from an outcrossing and autotraploid fruit crop 
+- Theory: key lessons from an outcrossing and autotraploid fruit crop 
 
 -----
