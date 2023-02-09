@@ -60,16 +60,21 @@ It is an attempt to organize and make available to any student the class notes u
 **2.Statistical Learning and Whole-Genome Regression Models**
 
 - Class 2[[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/2.LinearModelRegularization.pdf)
-- Hands-on [html]
-- Download [html]
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/2.LinearModelRegularization.pdf)
 
 - Theory: Introduction to Statistical Learning, rrBLUP and GBLUP 
 - Practice: rrBLUP vs. GBLUP, cross validation, shinny app
 
 **3.Theoretical and Practical Aspects for Genomic Selection Implementation**
 
-- Class 3[pdf]
+- Class 3 [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/3.GS.pdf)
 
-- Theory: Implementing genomic selection, blueberry example
+- Theory: Implementing genomic selection
+
+**4. Genomic Selection in Blueberry**
+
+- Class 4 [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/survey/Survey.pdf)
+
+- Theory: key lessosn from an outcrossing and autotraploid fruit crop 
 
 -----
