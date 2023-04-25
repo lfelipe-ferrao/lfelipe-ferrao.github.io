@@ -16,7 +16,9 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2023
 
-- Ferrão, MAG; da Fonseca, AFA; Voli, PS; de Souza, L; Comério, M; Verdin Filho, AC; Riva-Souza, EM; Munoz, PR; Ferrão, RG; **Ferrão, LFV**. [Genomic-assisted breeding for climate-smart coffee](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20321).The Plant Genome. 2023
+- Adunola, P; Ferrao; MAG; Ferrão, RG; da Fonseca, AFA; Volpi, PS; Comério, M; Verdin Filho, AC; Munoz, PR;  **Ferrão, LFV**. [Genomic selection for genotype performance and environmental stability in Coffea canephora](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkad062/7083856). G3 - Genes|Genomics|Genetics. 2023
+
+- Ferrão, MAG; da Fonseca, AFA; Volpi, PS; de Souza, L; Comério, M; Verdin Filho, AC; Riva-Souza, EM; Munoz, PR; Ferrão, RG; **Ferrão, LFV**. [Genomic-assisted breeding for climate-smart coffee](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20321).The Plant Genome. 2023
 
 - Carvalho, HF; **Ferrão, LFV**; Galli, G;  Nonato, JVA; Padilha, L; Maluf, MR; Resende Jr, MFR; Fritsche‑Neto, R; Guerreiro-Filho, O; [On the accuracy of threshold genomic prediction models for leaf miner and leaf rust resistance in arabica cofee](https://link.springer.com/article/10.1007/s11295-022-01581-8).  Tree Genetics & Genomes. 2023 
 
