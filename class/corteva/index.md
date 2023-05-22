@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./path2447.png" />
+  <img src="./qgscan.png" />
 </p>
 
 ## Instructors
