@@ -37,6 +37,10 @@ Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite t
 
 ### Flavor to Cup (F2C)
 
+<p align="center">
+  <img src="./coffee_logo.png" />
+</p>
+
 - Objective: investigate new genomic tools that could be used to developing a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to the projected climate changes is our ultimate goal.
 - Goals: 
   + Assembly a high-quality _C. canephora_ reference genome
