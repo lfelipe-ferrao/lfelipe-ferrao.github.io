@@ -26,4 +26,6 @@ This is an attempt to organize and make available to any student the class notes
 ```
 
 **1. Hands-on**
-- An introduction to data analyses in R [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/Bayesian/Bayesian.pdf)
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/corteva/1.Phenotypic.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/corteva/1.Phenotypic.html)
