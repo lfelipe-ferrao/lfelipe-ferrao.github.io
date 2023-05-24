@@ -13,13 +13,7 @@ modified: 11-6-2014
 
 <img src="{{ site.url }}/images/felipe2.jpg" width="120">{: .image-pull-right}  My name is **Luis Felipe Ventorim Ferrão** and I'm a **Research Assistant Scientist** at the University of Florida, working in collaboration with Dr. Patricio Munoz at the [Blueberry Breeding and Genomics Lab](https://www.blueberrybreeding.com/). You can read more about my work on this webpage and also see codes, papers, class notes and talks associated with my research.
 
-### Research topics:
-
-<p align="center">
-  <img src="/images/logo2.png" />
-</p>
-
-### Other specific areas
+## Specific areas
 
 - Association Mapping (GWAS)
 - Genomic Prediction
@@ -28,6 +22,37 @@ modified: 11-6-2014
 - Metabolomics and Sensory Analysis
 - Blueberry Breeding
 - Coffee Breeding
+
+## Blueberry Research Topics
+
+<p align="center">
+  <img src="/images/logo2.png" />
+</p>
+
+## Coffee Research Topics
+
+### Motivation
+
+Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite this importance, its sustainability is facing critical challenges including price volatility, limited access to genetic resources, the presence of new diseases and, in particular, accelerated climate changes. Genomic research in coffee could unveil crucial insights into the plant’s biological characteristics, including disease resistance, yield potential, and quality attributes. Some important projects lead by the University of Florida
+
+### Flavor to Cup (F2C)
+
+- Objective: investigate new genomic tools that could be used to developing a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to the projected climate changes is our ultimate goal.
+- Goals: 
+  + Assembly a high-quality _C. canephora_ reference genome
+  + Dissect the genetic architecture of flavor-related traits
+  + Combine sensory, metabolomics and genomics into a single framework for molecular breeding
+- Collaborators: 
+  + Incaper (Brazil)
+  + Denise Tieman
+  + Patricio Munoz
+  + Marcio Resende
+
+
+
+
+
+
 
 ### External Links
 - [UF-IFAS](https://hos.ifas.ufl.edu/people/on-campus-faculty/)
