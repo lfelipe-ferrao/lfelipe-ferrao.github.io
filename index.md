@@ -73,6 +73,23 @@ Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite t
   + Patricio Munoz (University of Florida)
   + Marcio Resende Jr. (University of Florida)
  
+### Deep Flavor
+
+<p align="center">
+  <img src="./coffee_logo3.png" />
+</p>
+
+- Objective: leveraging flavor analyses by using Artificial Intelligence methods
+- Goals:
+  + Can we have a better understanding of consumer preferences by combining traditional sensory panel evaluations and computer vision?
+  + From a statistical standpoint, how are the main chemical components acting (and interacting) to create flavor preferences?
+- Funding: Launching Innovative Faculty Teams in AI (LIFT AI)
+- Collaborators: 
+  + Raquel Dias (University of Florida)
+  + Denise Tieman (University of Florida)
+  + Charles A. Sims (University of Florida)
+  + Marcio Resende Jr. (University of Florida)
+  +  Patricio Munoz (University of Florida)
 
 
 
