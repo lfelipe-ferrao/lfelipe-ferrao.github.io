@@ -48,9 +48,27 @@ Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite t
   + Combine sensory, metabolomics and genomics into a single framework for molecular breeding
 - Collaborators: 
   + Incaper (Brazil)
-  + Denise Tieman
-  + Patricio Munoz
-  + Marcio Resende
+  + Denise Tieman (University of Florida)
+  + Patricio Munoz (University of Florida)
+  + Marcio Resende Jr. (University of Florida)
+  + Christophe Montagon (RD2 vision)
+
+### Breeding for Climate-Smart Coffee Cultivars
+
+- Objective: create an innovative and vibrant research line focused on coffee production and research.
+- Goals:
+  + Where we should primarily grow coffee in the Florida State?
+- Funding: Support for Emerging Enterprise Development Integration Teams (SEEDIT)
+- Collaborators: 
+  + William Hammond (University of Florida)
+  + Lorenzo Rossi (University of Florida)
+  + Guilherme Locatelli (University of Florida)
+  + Ali Sarkhosh (University of Florida)
+  + Jonathan Crane (University of Florida)
+  + Werner Collante (University of Florida)
+  + Patricio Munoz (University of Florida)
+  + Marcio Resende Jr. (University of Florida)
+ 
 
 
 
