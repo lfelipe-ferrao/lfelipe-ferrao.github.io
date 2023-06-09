@@ -59,7 +59,7 @@ Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite t
   <img src="./coffee_logo2.png" />
 </p>
 
-- Objective: create an innovative and vibrant research line focused on coffee production and research.
+- Objective: research line focused on coffee production and research.
 - Goals:
   + Where we should primarily grow coffee in the Florida State?
 - Funding: Support for Emerging Enterprise Development Integration Teams (SEEDIT)
