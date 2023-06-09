@@ -77,6 +77,4 @@ This is an attempt to organize and make available to any student the class notes
 - Theory: GWAS in supercomputes
 - Practice: `GWASpoly` R-package and HPC
 
-**4. Gene Mining** 
-
 
