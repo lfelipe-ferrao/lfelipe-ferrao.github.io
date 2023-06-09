@@ -69,6 +69,14 @@ This is an attempt to organize and make available to any student the class notes
 
 **4. Gene Mining** 
 
+**5. GWAS in HPC** 
 
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/GWAS/4.HPC.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/GWAS/4.HPC.html)
+
+- Theory: GWAS in supercomputes
+- Practice: `GWASpoly` R-package and HPC
+
+**4. Gene Mining** 
 
 
