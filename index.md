@@ -19,7 +19,7 @@ modified: 11-6-2014
   <img src="/images/all.png" />
 </p>
 
-My main goal is to explore a wide variety of problems at the interface of Statistics and Genetics. It includes developing novel methods and software or learning something new compared with existing approaches. Results are mainly applicable in two crops (blueberry and coffee) and in two directions: use of omics data for (i) prediction and for (ii) understanding the genetic architecture of complex traits.
+My main goal is to explore a wide variety of problems at the interface of Statistics and Genetics. It includes developing novel methods and software or learning something new compared with existing approaches. Results are mainly applicable in two crops (blueberry and coffee) and in two directions: the use of multi-omic data for (i) prediction and (ii) understanding the genetic architecture of complex traits.
 
 
 ## Specific areas
@@ -42,7 +42,7 @@ My main goal is to explore a wide variety of problems at the interface of Statis
 
 ### Motivation
 
-Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite this importance, its sustainability is facing critical challenges including price volatility, limited access to genetic resources, the presence of new diseases and, in particular, accelerated climate changes. Genomic research in coffee could unveil crucial insights into the plant’s biological characteristics, including disease resistance, yield potential, and quality attributes. Some important projects lead by the University of Florida
+Coffee is a widely-consumed beverage that drives a vibrant industry.  Despite this importance, its sustainability is facing critical challenges including price volatility, limited access to genetic resources, the presence of new diseases and, in particular, accelerated climate changes. Genomic research in coffee could unveil crucial insights into the plant’s biological characteristics, including disease resistance, yield potential, and quality attributes. Some important projects led by the University of Florida
 
 ### Flavor to Cup (F2C)
 
@@ -50,7 +50,7 @@ Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite t
   <img src="./coffee_logo.png" />
 </p>
 
-- Objective: investigate new genomic tools that could be used to developing a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to the projected climate changes.
+- Objective: investigate new genomic tools that could be used to develop a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to the projected climate changes.
 - Goals: 
   + Assembly a high-quality _C. canephora_ reference genome
   + Dissect the genetic architecture of flavor-related traits
@@ -70,7 +70,7 @@ Coffee is an widely-consumed beverage that drives a vibrant industry.  Despite t
 
 - Objective: research line focused on coffee production and research.
 - Goals:
-  + Where we should primarily grow coffee in the Florida State?
+  + Where we should primarily grow coffee in Florida State?
 - Funding: Support for Emerging Enterprise Development Integration Teams (SEEDIT)
 - Collaborators: 
   + William Hammond (University of Florida)
