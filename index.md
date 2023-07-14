@@ -13,6 +13,15 @@ modified: 11-6-2014
 
 <img src="{{ site.url }}/images/felipe2.jpg" width="120">{: .image-pull-right}  My name is **Luis Felipe Ventorim Ferrão** and I'm a **Research Assistant Scientist** at the University of Florida, working in collaboration with Dr. Patricio Munoz at the [Blueberry Breeding and Genomics Lab](https://www.blueberrybreeding.com/). You can read more about my work on this webpage and also see codes, papers, class notes and talks associated with my research.
 
+## Goals
+
+<p align="center">
+  <img src="/images/all.png" />
+</p>
+
+My main goal is to explore a wide variety of problems at the interface of Statistics and Genetics. It includes developing novel methods and software or learning something new compared with existing approaches. Results are mainly applicable in two crops (blueberry and coffee) and in two directions: use of omics data for (i) prediction and for (ii) understanding the genetic architecture of complex traits.
+
+
 ## Specific areas
 
 - Association Mapping (GWAS)
