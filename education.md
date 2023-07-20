@@ -11,6 +11,9 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 #  creditlink: http://augusto-garcia.github.io/
 ---
 
+<p align="center">
+  <img src="/images/education.png" />
+</p>
 
 
 - **2020-present**:  Research Assistant Scientist, Blueberry Breeding and Genomics Lab, UF/IFAS, USA 
