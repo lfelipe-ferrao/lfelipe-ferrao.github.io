@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2023
 
+- Amadeu, RR.; Garcia, AAF; Munoz, PR; **Ferrão, LFV**. [AGHmatrix: genetic relationship matrices in R ](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad445/7227072?login=true). Bioinformatics. 2023
+
 - Adunola, P; Ferrao; MAG; Ferrão, RG; da Fonseca, AFA; Volpi, PS; Comério, M; Verdin Filho, AC; Munoz, PR;  **Ferrão, LFV**. [Genomic selection for genotype performance and environmental stability in Coffea canephora](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkad062/7083856). G3 - Genes.Genomics.Genetics. 2023
 
 - Ferrão, MAG; da Fonseca, AFA; Volpi, PS; de Souza, L; Comério, M; Verdin Filho, AC; Riva-Souza, EM; Munoz, PR; Ferrão, RG; **Ferrão, LFV**. [Genomic-assisted breeding for climate-smart coffee](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20321).The Plant Genome. 2023
