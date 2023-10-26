@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2023
 
+- Yocca, AE.; Platts, A.; Alger, E.; Teresi, S.; Mengist, MF.; Benevenuto, J.; **Ferrão, LFV.;**, Jacobs, M.; Babinski, M.; et al. [Blueberry and cranberry pangenomes as a resource for future genetic studies and breeding efforts](https://academic.oup.com/hr/advance-article/doi/10.1093/hr/uhad202/7304382). Horticulture Research. 2023
+
 - **Ferrão, LFV**.; Dhakal, R.; Dias, R.; Tieman, D.; Whitaker, V.; Gore, MA; Messina, C.; Resende Jr, MFR.; [Machine learning applications to improve flavor and nutritional content of horticultural crops through breeding and genetics](https://www.sciencedirect.com/science/article/pii/S0958166923000782?dgcid=coauthor). Current Opinion in Biotechnology. 2023
 
 - Amadeu, RR.; Garcia, AAF; Munoz, PR; **Ferrão, LFV**. [AGHmatrix: genetic relationship matrices in R ](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad445/7227072?login=true). Bioinformatics. 2023
