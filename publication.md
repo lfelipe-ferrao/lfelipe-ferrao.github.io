@@ -14,6 +14,10 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Articles
 
+## 2024
+
+- Azevedo, C.; **Ferrão, LFV.;** Benevenuto, J.; Resende, MD.; Nascimento, M.; Nascimento, AC.; Munoz, PR. [Using visual scores for genomic prediction of complex traits in breeding programs](https://link.springer.com/article/10.1007/s00122-023-04512-w). TAG. 2024
+
 ## 2023
 
 - Neves da Silva, M.; Benevenuto, J.; **Ferrão, LFV.;** Munoz, PR.; [Genome-wide association study and transcriptome analysis reveal candidate genes for off-season flowering in blueberry](https://www.sciencedirect.com/science/article/pii/S0304423823008117?dgcid=coauthor). Scientia Horticulturae. 2023
