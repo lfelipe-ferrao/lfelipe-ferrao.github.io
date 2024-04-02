@@ -16,11 +16,13 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- Charles, JR.; Dorval, MD.; Durone, JB.; **Ferrão, LFV**.; Amadeu, RR.; Munoz, PR; Morris, G.; Meru, G.; Pressoir, G.; [Genomic prediction of sweet sorghum agronomic performanceunder drought and irrigated environments in Haiti](https://acsess.onlinelibrary.wiley.com/doi/10.1002/csc2.21228) Crop Science. 2024
+
 - Azevedo, C.; **Ferrão, LFV.;** Benevenuto, J.; Resende, MD.; Nascimento, M.; Nascimento, AC.; Munoz, PR. [Using visual scores for genomic prediction of complex traits in breeding programs](https://link.springer.com/article/10.1007/s00122-023-04512-w). TAG. 2024
 
-## 2023
+- Neves da Silva, M.; Benevenuto, J.; **Ferrão, LFV.;** Munoz, PR.; [Genome-wide association study and transcriptome analysis reveal candidate genes for off-season flowering in blueberry](https://www.sciencedirect.com/science/article/pii/S0304423823008117?dgcid=coauthor). Scientia Horticulturae. 2024
 
-- Neves da Silva, M.; Benevenuto, J.; **Ferrão, LFV.;** Munoz, PR.; [Genome-wide association study and transcriptome analysis reveal candidate genes for off-season flowering in blueberry](https://www.sciencedirect.com/science/article/pii/S0304423823008117?dgcid=coauthor). Scientia Horticulturae. 2023
+## 2023
 
 - Yocca, AE.; Platts, A.; Alger, E.; Teresi, S.; Mengist, MF.; Benevenuto, J.; **Ferrão, LFV.;**, Jacobs, M.; Babinski, M.; et al. [Blueberry and cranberry pangenomes as a resource for future genetic studies and breeding efforts](https://academic.oup.com/hr/advance-article/doi/10.1093/hr/uhad202/7304382). Horticulture Research. 2023
 
