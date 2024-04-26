@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- Garzón-Martinez, GA.; Azevedo, C; Berdugo-Cely, JA.; Lasso-Paredes, ZL.; Coronel-Ortiz, B.; **Ferrão, LFV**.; Enciso-Rodriguez, FE. [Genetic dissection of yield and quality-related traits in a Colombian Andigenum potato collection, revealed by genome-wide association and genomic prediction analyses](https://link.springer.com/article/10.1007/s10681-024-03337-y). Euphytica. 2024
+
 - Charles, JR.; Dorval, MD.; Durone, JB.; **Ferrão, LFV**.; Amadeu, RR.; Munoz, PR; Morris, G.; Meru, G.; Pressoir, G.; [Genomic prediction of sweet sorghum agronomic performance under drought and irrigated environments in Haiti](https://acsess.onlinelibrary.wiley.com/doi/10.1002/csc2.21228) Crop Science. 2024
 
 - Azevedo, C.; **Ferrão, LFV.;** Benevenuto, J.; Resende, MD.; Nascimento, M.; Nascimento, AC.; Munoz, PR. [Using visual scores for genomic prediction of complex traits in breeding programs](https://link.springer.com/article/10.1007/s00122-023-04512-w). TAG. 2024
