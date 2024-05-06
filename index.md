@@ -42,16 +42,11 @@ My main goal is to explore a wide variety of problems at the interface of Statis
 
 ### Motivation
 
-Coffee is a widely-consumed beverage that drives a vibrant industry.  Despite this importance, its sustainability is facing critical challenges including price volatility, limited access to genetic resources, the presence of new diseases and, in particular, accelerated climate changes. Genomic research in coffee could unveil crucial insights into the plant’s biological characteristics, including disease resistance, yield potential, and quality attributes. Some important projects led by the University of Florida
+Coffee is a widely consumed beverage that drives a vibrant industry.  Despite this importance, its sustainability is facing critical challenges including price volatility, limited access to genetic resources, the presence of new diseases, and, in particular, accelerated climate changes. Genomic research in coffee could unveil crucial insights into the plant’s biological characteristics, including disease resistance, yield potential, and quality attributes. Some important projects led by the University of Florida
 
 ### Flavor to Cup (F2C)
 
-<p align="center">
-  <img src="./coffee_logo.png" />
-</p>
-
-
-- Objective: investigate new genomic tools that could be used to develop a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to the projected climate changes.
+<img src="{{ site.url }}./coffee_logo.png" width="220">{: .image-pull-left}  Innovation is one of the key aspects for the future of the coffee chain. We believe that investigating new genomic tools  could leverage the development of a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to projected climate changes. 
 - Goals: 
   + Assembly a high-quality _C. canephora_ reference genome
   + Dissect the genetic architecture of flavor-related traits
@@ -66,7 +61,7 @@ Coffee is a widely-consumed beverage that drives a vibrant industry.  Despite th
 ### Breeding for Climate-Smart Coffee Cultivars
 
 
-<img src="{{ site.url }}./coffee_logo2.png" width="120">{: .image-pull-right}  Breeding for climate-smart coffee cultivars is a research initiative with the fundamental goal to support local coffee production. The underlying question is: could coffee be an alternative crop for local growers in Florida? If so, where and how?
+<img src="{{ site.url }}./coffee_logo2.png" width="220">{: .image-pull-left}  Breeding for climate-smart coffee cultivars is a research initiative with the fundamental goal to support local coffee production. The underlying question is: could coffee be an alternative crop for local growers in Florida? If so, where and how?
 
 - Funding: Support for Emerging Enterprise Development Integration Teams (SEEDIT)
 - Collaborators: 
