@@ -46,7 +46,7 @@ Coffee is a widely consumed beverage that drives a vibrant industry.  Despite th
 
 ### Flavor to Cup (F2C)
 
-<img src="{{ site.url }}./coffee_logo.png" width="220">{: .image-pull-left}  Innovation is one of the key aspects for the future of the coffee chain. We believe that investigating new genomic tools  could leverage the development of a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to projected climate changes. 
+<img src="{{ site.url }}./coffee_logo.png" width="220">{: .image-pull-right}  Innovation is one of the key aspects for the future of the coffee chain. We believe that investigating new genomic tools  could leverage the development of a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to projected climate changes. 
 - Goals: 
   + Assembly a high-quality _C. canephora_ reference genome
   + Dissect the genetic architecture of flavor-related traits
@@ -61,7 +61,7 @@ Coffee is a widely consumed beverage that drives a vibrant industry.  Despite th
 ### Breeding for Climate-Smart Coffee Cultivars
 
 
-<img src="{{ site.url }}./coffee_logo2.png" width="220">{: .image-pull-left}  Breeding for climate-smart coffee cultivars is a research initiative with the fundamental goal to support local coffee production. The underlying question is: could coffee be an alternative crop for local growers in Florida? If so, where and how?
+<img src="{{ site.url }}./coffee_logo2.png" width="220">{: .image-pull-right}  Breeding for climate-smart coffee cultivars is a research initiative with the fundamental goal to support local coffee production. The underlying question is: could coffee be an alternative crop for local growers in Florida? If so, where and how?
 
 - Funding: Support for Emerging Enterprise Development Integration Teams (SEEDIT)
 - Collaborators: 
