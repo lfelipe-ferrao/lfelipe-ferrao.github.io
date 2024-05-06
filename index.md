@@ -50,6 +50,7 @@ Coffee is a widely-consumed beverage that drives a vibrant industry.  Despite th
   <img src="./coffee_logo.png" />
 </p>
 
+
 - Objective: investigate new genomic tools that could be used to develop a new generation of climate-smart coffee cultivars that combine flavor and are more resilient to the projected climate changes.
 - Goals: 
   + Assembly a high-quality _C. canephora_ reference genome
@@ -64,13 +65,9 @@ Coffee is a widely-consumed beverage that drives a vibrant industry.  Despite th
 
 ### Breeding for Climate-Smart Coffee Cultivars
 
-<p align="center">
-  <img src="./coffee_logo2.png" />
-</p>
 
-- Objective: research line focused on coffee production and research.
-- Goals:
-  + Where we should primarily grow coffee in Florida State?
+<img src="{{ site.url }}./coffee_logo2.png" width="120">{: .image-pull-right}  Breeding for climate-smart coffee cultivars is a research initiative with the fundamental goal to support local coffee production. The underlying question is: could coffee be an alternative crop for local growers in Florida? If so, where and how?
+
 - Funding: Support for Emerging Enterprise Development Integration Teams (SEEDIT)
 - Collaborators: 
   + William Hammond (University of Florida)
