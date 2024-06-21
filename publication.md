@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- Adunola, P.; Tavares Flores, E.; Riva-Souza, E.;  Ferrão, MGA.; Senra, JF.; Comério, M.; Espindula, MC.; Verdin Filho, AC.;  Volpi, PS.;  Fonseca, AAF.; Ferrão, RG.; Munoz, PR.; **Ferrão, LFV**. [A comparison of genomic and phenomic selection methods for yield prediction in Coffea canephora](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20109). The Plant Phenome. 2024
+
 - Mengist, MF.; Pottorff, M.; Mackey, T.; **Ferrão, F**,; Casorzo, G.; Ann Lila, M.; Luby, C.; Giongo, L.; Perkins-Veazie, P.; Bassil, N.; Munoz, P.; Iorizzo, M.; [Assessing predictability of post-storage texture and appearance characteristics in blueberry at breeding population level](https://www.sciencedirect.com/science/article/pii/S0925521424002096). Postharvest Biology and Technology,2024
 
 - Garzón-Martinez, GA.; Azevedo, C; Berdugo-Cely, JA.; Lasso-Paredes, ZL.; Coronel-Ortiz, B.; **Ferrão, LFV**.; Enciso-Rodriguez, FE. [Genetic dissection of yield and quality-related traits in a Colombian Andigenum potato collection, revealed by genome-wide association and genomic prediction analyses](https://link.springer.com/article/10.1007/s10681-024-03337-y). Euphytica. 2024
