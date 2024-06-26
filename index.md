@@ -35,7 +35,7 @@ My main goal is to explore a wide variety of problems at the interface of Statis
 ## Blueberry Research Topics
 
 <p align="center">
-  <img src="/images/logo2.png" />
+  <img src="/images/all 3.png" />
 </p>
 
 ## Coffee Research Topics
