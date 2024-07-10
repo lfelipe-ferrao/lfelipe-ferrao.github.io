@@ -16,6 +16,9 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- Ferrão, MAG.; Riva-Souza, EM.; Azevedo, C.; Volpi, PS; Fonseca, AFA.; Ferrão, RG.; Montagnon, C.; **Ferrão, LFV**. [Robust and smart: Inference on phenotypic plasticity of Coffea
+canephora reveals adaptation to alternative environments](https://acsess.onlinelibrary.wiley.com/doi/10.1002/csc2.21298). Crop Science. 2024
+
 - Adunola, P.;  **Ferrão, LFV**.; Azevedo, C.; Nunez, G.; Munoz, PR.; [The effect of environmental variables on the genotyping-by-environment interaction in blueberry](https://link.springer.com/article/10.1007/s10681-024-03364-9).Euphytica. 2024
 
 - Adunola, P.; Tavares Flores, E.; Riva-Souza, E.;  Ferrão, MGA.; Senra, JF.; Comério, M.; Espindula, MC.; Verdin Filho, AC.;  Volpi, PS.;  Fonseca, AAF.; Ferrão, RG.; Munoz, PR.; **Ferrão, LFV**. [A comparison of genomic and phenomic selection methods for yield prediction in Coffea canephora](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20109). The Plant Phenome. 2024
