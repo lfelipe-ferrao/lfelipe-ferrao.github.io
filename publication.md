@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- Adunola, P.;  **Ferrão, LFV**.; Benevenuto, J. Azevedo, C.; Munoz, PR.; [Genomic selection optimization in blueberry: Data-driven methods for marker and training population design](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20488).The Plant Genome. 2024
+
 - Ferrão, MAG.; Riva-Souza, EM.; Azevedo, C.; Volpi, PS; Fonseca, AFA.; Ferrão, RG.; Montagnon, C.; **Ferrão, LFV**. [Robust and smart: Inference on phenotypic plasticity of Coffea
 canephora reveals adaptation to alternative environments](https://acsess.onlinelibrary.wiley.com/doi/10.1002/csc2.21298). Crop Science. 2024
 
