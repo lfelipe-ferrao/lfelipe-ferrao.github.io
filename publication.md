@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- Casorzo, **Ferrão, LFV**.; Adunola, P.; Tavares, E.; Azevedo, C.; Amadeu, R.; Munoz, PR.; [Understanding the Genetic Basis of Blueberry Postharvest Traits to Define Better Breeding Strategies](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkae163/7721064?login=true). G3- Genes, Genome, Genetics. 2024
+
 - Adunola, P.;  **Ferrão, LFV**.; Benevenuto, J. Azevedo, C.; Munoz, PR.; [Genomic selection optimization in blueberry: Data-driven methods for marker and training population design](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20488).The Plant Genome. 2024
 
 - Ferrão, MAG.; Riva-Souza, EM.; Azevedo, C.; Volpi, PS; Fonseca, AFA.; Ferrão, RG.; Montagnon, C.; **Ferrão, LFV**. [Robust and smart: Inference on phenotypic plasticity of Coffea
