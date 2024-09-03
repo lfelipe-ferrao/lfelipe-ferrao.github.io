@@ -60,7 +60,7 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Introduction to PorGen
 - Practice: Introduction to R applied to popgen analyses
 
-**2. Means,Genotypic Values and Breeding Values**
+**2. Means,Genotypic Values, and Breeding Values**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2_24.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2_24.html)
@@ -70,8 +70,19 @@ It is an attempt to organize and make available to any student the class notes u
  
 - Extra: 
   - Short introduction to linear models [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2a_2022.html)
+ 
+**3. Genetic Variance and Heritability**
 
-**3. Biometric Model**
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5_GeneticVariance_24.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5_GeneticVariance_24.html)
+
+- Theory: Total genetic, additive, and dominance variances. Heritability theory
+- Practice: app to check the components of the genetic variance and their relationship to the allele frequencies.
+
+- Extra: 
+  - Alternative Heritability Measures [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/h2_2022.html)
+
+**4. Biometric Model**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
@@ -79,7 +90,7 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Dominance deviation and the Biometric Model
 - Practice: a toy example on simulating a simpre regression model in R and the Biometric Model
 
-**4. Introduction to Mixed Models**
+**5. Introduction to Mixed Models**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week3_2022.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week3_2022.html)
@@ -89,17 +100,6 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Extra: 
   - Introduction to asreml-R [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/2Intro_ASREML.html)
-
-**5. Genetic Variance and Heritability**
-
-- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_2022.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_2022.html)
-
-- Theory: Total genetic, additive, and dominance variances. Heritability theory
-- Practice: app to check the components of the genetic variance and their relationship to the allele frequencies.
-
-- Extra: 
-  - Alternative Heritability Measures [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/h2_2022.html)
 
 **6. Covariance Between Relatives and Genetic Designs**
 
