@@ -62,8 +62,8 @@ It is an attempt to organize and make available to any student the class notes u
 
 **2. Means,Genotypic Values and Breeding Values**
 
-- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2_2022.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week3.html)
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2_24.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2_24.html)
 
 - Theory: Genetic Effect of complex traits
 - Practice: Introduction to Experimental Design and ANOVA
@@ -71,10 +71,10 @@ It is an attempt to organize and make available to any student the class notes u
 - Extra: 
   - Short introduction to linear models [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2a_2022.html)
 
-**3. Dominance Deviation and the Biometric Model**
+**3. Biometric Model**
 
-- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5_2022.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week5_2022.html)
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
 
 - Theory: Dominance deviation and the Biometric Model
 - Practice: a toy example on simulating a simpre regression model in R and the Biometric Model
@@ -95,7 +95,7 @@ It is an attempt to organize and make available to any student the class notes u
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_2022.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_2022.html)
 
-- Theory: Total genetic, additive and dominance variances. Heritability theory
+- Theory: Total genetic, additive, and dominance variances. Heritability theory
 - Practice: app to check the components of the genetic variance and their relationship to the allele frequencies.
 
 - Extra: 
@@ -106,7 +106,7 @@ It is an attempt to organize and make available to any student the class notes u
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week7_2022.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week7_2022.html)
 
-- Theory: Resemblance between relatives, pedigree matrix and genetic desing
+- Theory: Resemblance between relatives, pedigree matrix and genetic design
 - Practice:  Progenie test experiments using half-sib and full-sibs. `AGHmatrix` package.
 
 **7. Pedigree Analysis**
