@@ -890,7 +890,7 @@ margin-left: 0 !important;
    
         
       <h1 class="title">Quantitative Genetics</h1>
-         <h1 class="subtitle">Biometric Model: Matrix Notation</h1>
+         <h1 class="subtitle">Matrix Notation and Gametic Models</h1>
    
         
 
@@ -905,7 +905,7 @@ margin-left: 0 !important;
 <div class="fyi">
 <p><strong>Objectives:</strong></p>
 <ul>
-<li>Biometric Model</li>
+<li>Biometric Model and Gametic Model</li>
 <li>Matrix Notation</li>
 </ul>
 </div>
@@ -924,12 +924,19 @@ Breeding</a></li>
 <h1>Introduction</h1>
 <p>In the last classes, we mentioned that linear models can be
 represented in their matrix notation. We already mentioned that matrix
-notation present some advantages, including the computational
-implementation and a compact notation. Here, we briefly expand the
-dosage model into a matrix notation.</p>
+notation has some advantages, including the computational implementation
+and a compact notation. Here, we briefly expand the dosage model into a
+matrix notation. Additionally, we introduced the idea related to the
+Gametic Model. We presented the Biometric Models by looking their
+dosages. Effects and the partitioning of the phenotypic variance was
+mainly addressed using the allele dosages. The idea here is to ignore
+the dosage and focus on the alleles (or gametes). We will call it as
+gametic effect, and such approach has been used by different authors to
+discuss quantitative traits. In short, dosage and gametic models are two
+sides from the same coin.</p>
 </div>
-<div id="theory" class="section level1">
-<h1>Theory</h1>
+<div id="matrix-notation" class="section level1">
+<h1>Matrix Notation</h1>
 <div id="parameter-estimation" class="section level2">
 <h2>Parameter Estimation</h2>
 <p>In the last class, we summarize the genotypic values into this
@@ -1105,12 +1112,290 @@ y=
 \]</span></p>
 </div>
 </div>
-<div id="conclusions" class="section level1">
-<h1>Conclusions</h1>
-<p>All the concepts presented about the biometric model could be
-presented in the matrix notation. The concepts and definitions are the
-same, this is only a different form to present the the Biometric Model
-and regression and ANOVA analyses.</p>
+<div id="gametic-model" class="section level1">
+<h1>Gametic Model</h1>
+<div id="intuition" class="section level2">
+<h2>Intuition</h2>
+<p>In the dosage models, we focus on the effect of the AA, Aa, and aa
+genotypic effects into a regression analyses. The gametic model will
+look at the same problem, but from a different angle. Our point of
+interest are the gametes and their alleles. Biologically, it makes total
+sense because the additive value of an individual will come from the sum
+of the allele affects of two individuals.</p>
+<p>We will start with a simple model:</p>
+<p><span class="math display">\[y_{ij}= \alpha_i + \alpha_j +
+\delta_{ij}\]</span></p>
+<ul>
+<li><span class="math inline">\(\alpha_i\)</span>: effect from the
+allele 1, coming from the parent 1</li>
+<li><span class="math inline">\(\alpha_j\)</span>: effect from the
+allele 2, coming from the parent 2</li>
+<li><span class="math inline">\(\delta_{ij}\)</span>: effect from the
+intra-allelic interaction between the allele 1 and 2</li>
+</ul>
+<table style="width:100%;">
+<colgroup>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Genotype</th>
+<th>Genotypic value (Y)</th>
+<th>Freq</th>
+<th>#alleles (X)</th>
+<th>Codified GEnetic Value</th>
+<th>Genetic Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>AA</td>
+<td>a</td>
+<td>p²</td>
+<td>2</td>
+<td><span class="math inline">\(2q(\alpha - dq)\)</span></td>
+<td><span class="math inline">\(y_{11}=\alpha_A + \alpha_A
++\delta_{AA}\)</span></td>
+</tr>
+<tr class="even">
+<td>Aa</td>
+<td>d</td>
+<td>2pq</td>
+<td>1</td>
+<td><span class="math inline">\(\alpha(q-p) + 2pqd\)</span></td>
+<td><span class="math inline">\(y_{12}=\alpha_A + \alpha_a
++\delta_{Aa}\)</span></td>
+</tr>
+<tr class="odd">
+<td>aa</td>
+<td>- a</td>
+<td>q²</td>
+<td>0</td>
+<td><span class="math inline">\(-2p(\alpha+pd)\)</span></td>
+<td><span class="math inline">\(y_{22}=\alpha_a + \alpha_a
++\delta_{aa}\)</span></td>
+</tr>
+</tbody>
+</table>
+<p>For the sequence of this section, we will realize that gametic models
+resembles an ANOVA analyses, instead of a classic regression model
+represented in the Biometric Model. The intuition behind is not complex.
+We are looking for two factors in the model (A and a allele), and their
+intra-allelic interaction, as a classical factorial model presented in
+ANOVA analyses.</p>
+<p>As we discussed during the <a href="https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week2a_24.html">Introduction
+to Linear Models</a> class, we can represent it in a matrix notation,
+and we will need to consider some constrains when estimating the
+effects.</p>
+</div>
+<div id="parameter-estimation-1" class="section level2">
+<h2>Parameter Estimation</h2>
+<p><span class="math display">\[Y=X\beta + e\]</span></p>
+<p><span class="math display">\[
+\begin{bmatrix}
+  [y_{11}]p^2 \\
+  [y_{12}]2pq \\
+  [y_{22}]q^2]\\
+\end{bmatrix}
+= \begin{bmatrix}
+  [2 &amp; 0] p^2 \\
+  [1 &amp; 1] 2pq \\
+  [0 &amp; 2]q^2
+\end{bmatrix}
+\begin{bmatrix}
+  \alpha_A \\
+  \alpha_a \\
+\end{bmatrix}
++
+\begin{bmatrix}
+  [\delta_{11}]p^2 \\
+  [\delta_{12}]2pq \\
+  [\delta_{22}]q^2
+\end{bmatrix}
+\]</span></p>
+<p>There is a fundamental difference between the models, because the
+<strong>X</strong> matrix (so-called incidence matrix) is a dummy matrix
+(not a dosage).</p>
+<p>We can use this information to estimate the parameters:</p>
+<p><span class="math display">\[X´X\hat{\beta} = X&#39;Y \\ \hat{\beta}
+=  (X&#39;X)^{-1} X&#39;y\]</span></p>
+<p><span class="math display">\[
+X&#39;Y=\begin{bmatrix}
+2p^2 &amp; 2pq &amp; 0 \\
+0 &amp; 2pq &amp; 2q^2 \\
+0 &amp; 0 &amp; 2q^2
+\end{bmatrix}
+\begin{bmatrix}
+2(\alpha-qd) \\
+(\alpha-q)p + 2pqd \\
+-2p(\alpha+pd)
+\end{bmatrix}
+=
+\begin{bmatrix}
+2p^2(y11) + 2pq(y12) + 0(y22) \\
+0(y11) + 2pq(y12) + 2q^2(y22) \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+2pq\alpha \\
+-2pq\alpha \\
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+XX&#39; = \begin{bmatrix}
+2p^2 &amp; 2pq &amp; 0 \\
+0 &amp; 2pq &amp; 2q^2 \\
+\end{bmatrix}
+\begin{bmatrix}
+2 &amp; 0 \\
+1 &amp; 1 \\
+0 &amp; 2
+\end{bmatrix}
+= \begin{bmatrix}
+4p^2 + 2pq &amp; 2pq  \\
+2pq &amp; 4q^2 + 2pq  \\
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[XX&#39;\hat{\beta} = XY\]</span></p>
+<p><span class="math display">\[
+\begin{bmatrix}
+4p^2 + 2pq &amp; 2pq  \\
+2pq &amp; 4q^2 + 2pq  \\
+\end{bmatrix}
+\begin{bmatrix}
+\alpha_A \\
+\alpha_a \\
+\end{bmatrix}
+= \begin{bmatrix}
+2pq\alpha \\
+2q^2\alpha \\
+\end{bmatrix}
+\]</span></p>
+<p>If we expand these equations:</p>
+<p><span class="math display">\[(4p^2 + 2pq)\alpha_A + (2pq)\alpha_a =
+2pq\alpha\]</span> <span class="math display">\[(2pq)\alpha_a +
+(4q^2+2pq)\alpha_a = -2pq\alpha\]</span> Conclusions about the allele
+effects:</p>
+<ul>
+<li><span class="math inline">\(\alpha_A = q\alpha\)</span></li>
+<li><span class="math inline">\(\alpha_a = -p\alpha\)</span></li>
+<li><span class="math inline">\(\alpha_A - \alpha_a = q\alpha
+-(-p\alpha) = q\alpha+p\alpha = \alpha\)</span></li>
+</ul>
+<div id="additive-effects" class="section level3">
+<h3>Additive Effects</h3>
+<p>Additive genetic values for the different genotypes:</p>
+<ul>
+<li>AA: <span class="math inline">\(2\alpha_A = 2q\alpha\)</span></li>
+<li>Aa: <span class="math inline">\(\alpha_A + \alpha_a =
+2q\alpha\)</span></li>
+<li>Aa: <span class="math inline">\(2\alpha_a = -2p\alpha\)</span></li>
+</ul>
+<p>Some important considerations:</p>
+<ul>
+<li>We are not looking anymore for the impact of the dosages, but on the
+gametic (or allele) effect.</li>
+<li>We can estimate the effects of replacing the allele A by the allele
+a in a population, that is the effect of allelic substitution (<span class="math inline">\(\alpha\)</span>)</li>
+<li><span class="math inline">\(\alpha\)</span> connects the gametic and
+dosage models</li>
+<li>Because <span class="math inline">\(\alpha\)</span> is directly
+related to the gametic effects, they are part of the additive value of
+an individual – that is the genetic portion of the variance inherited
+across generations and a key concept in breeding programs.</li>
+</ul>
+</div>
+<div id="dominance-deviations" class="section level3">
+<h3>Dominance deviations</h3>
+<p><span class="math display">\[\delta_{AA} = y_{11} - (2\alpha_A) =
+2q(\alpha-qd)-2q\alpha = -2q^2d\]</span></p>
+<p><span class="math display">\[\delta_{Aa} = y_{12} -
+(\alpha_A+\alpha_a) = \alpha(q-p) + 2pqd - (\alpha_a + \alpha_a) =
+q\alpha -p\alpha + 2pqd + p\alpha = 2pqd\]</span></p>
+<p><span class="math display">\[\delta_{aaa} = y_{22} - (2\alpha_a) =
+-2p(\alpha+pd)- (-2p\alpha) = -2p^2d\]</span></p>
+</div>
+</div>
+</div>
+<div id="other-definitions" class="section level1">
+<h1>Other definitions</h1>
+<p>So far, we have decomposed the genetic values using three main
+principles:</p>
+<ul>
+<li>Using the mean and variance properties.</li>
+<li>Using a regression model, that we called as the Biometric
+Models</li>
+<li>Using the Gametic Model, presented as an ANOVA problem.</li>
+</ul>
+<p>When describing the mean we briefly introduced the breeding value
+concept that is actually another form to decompose the genetic values.
+The idea is more connected to population genetic principles and relies
+on the fact that gametes have different values in a popualtion.</p>
+<p>Hypothetically, to measure it, we have two values:</p>
+<ul>
+<li>Population mean</li>
+<li>Mean of individuals that receive a given gamete</li>
+</ul>
+<p>Thus, we can expand the following equations assuming that we are
+fixing one gamete (or allele) in a population and compare it with the
+general mean</p>
+<table>
+<thead>
+<tr class="header">
+<th>Allele</th>
+<th>A(p)</th>
+<th>a(q)</th>
+<th>mean</th>
+<th>freq</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>AA(u+a)</td>
+<td>Aa(u+d)</td>
+<td>p(u+a)+q(u+d)</td>
+<td>p</td>
+</tr>
+<tr class="even">
+<td>a</td>
+<td>Aa(u+d)</td>
+<td>aa(u-a)</td>
+<td>p(u+d)+q(u-a)</td>
+<td>q</td>
+</tr>
+</tbody>
+</table>
+<p><span class="math display">\[\begin{align*}
+\alpha_A = \bar{Y_A} - \bar{Y}\\
+= p(u+a)+q(u+d)-[u+a(p-q)+2pqd]\\
+= pu+pa+qu+qd-u-ap+aq-2pqd\\
+= u(p+q)-u+pa-ap+qd+aq-2pqd\\
+= q(a+d-2pd)\\
+=q[a+d(1-2p)]\\
+=q[a+d(1-p-p)]\\
+=q[a+d(q-p)]\\
+=q\alpha
+\end{align*}\]</span></p>
+<p><span class="math display">\[\begin{align*}
+\alpha_A = \bar{Y_a} - \bar{Y}\\
+= p(u+d)+q(u+a)-[u+a(p-q)+2pqd]\\
+= pu+pd+qu+qa-u-ap+aq-2pqd\\
+= u(p+q)-u+pd-ap-2pqd\\
+=-p[-d+a+2qd]\\
+=-p[a+d(-1+2q)]\\
+=-p[a+d(-1+q+1-p)]\\
+=-p[a+d(q-p)]\\
+=-p\alpha
+\end{align*}\]</span></p>
+<p>All these concepts were presented in the past models, but looking at
+the <strong>individual level</strong>. Here, our focus is mainly at the
+<strong>gametic level</strong>.</p>
 </div>
 <div id="references" class="section level1">
 <h1>References</h1>
@@ -1136,13 +1421,21 @@ link</a></li>
        <button type="button" class="close">×</button>
        <ul>
        <li><a href="#introduction" id="toc-introduction">Introduction</a></li>
-       <li><a href="#theory" id="toc-theory">Theory</a>
+       <li><a href="#matrix-notation" id="toc-matrix-notation">Matrix
+       Notation</a>
        <ul>
        <li><a href="#parameter-estimation" id="toc-parameter-estimation">Parameter Estimation</a></li>
        <li><a href="#anova-models" id="toc-anova-models">ANOVA
        models</a></li>
        </ul></li>
-       <li><a href="#conclusions" id="toc-conclusions">Conclusions</a></li>
+       <li><a href="#gametic-model" id="toc-gametic-model">Gametic
+       Model</a>
+       <ul>
+       <li><a href="#intuition" id="toc-intuition">Intuition</a></li>
+       <li><a href="#parameter-estimation-1" id="toc-parameter-estimation-1">Parameter Estimation</a></li>
+       </ul></li>
+       <li><a href="#other-definitions" id="toc-other-definitions">Other
+       definitions</a></li>
        <li><a href="#references" id="toc-references">References</a></li>
        </ul>
      </div>
