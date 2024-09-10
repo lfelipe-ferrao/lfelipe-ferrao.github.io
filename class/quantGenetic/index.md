@@ -88,11 +88,11 @@ It is an attempt to organize and make available to any student the class notes u
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
 
 - Theory: Dominance deviation and the Biometric Model
-- Practice: a toy example on simulating a simple regression model in R and the Biometric Model
+- Practice: a toy example of simulating a simple regression model in R and the Biometric Model
 
- - Extra: 
-  + Biometric Model in Matrix Notation [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_Matrix_24.html)
-  + Gametic Model[[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week7_GameticModel_24.html)
+- Extra: 
+  - Matrix Notation and the Gametic Model [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_Matrix_24.html)
+
 
 
 **5. Introduction to Mixed Models**
