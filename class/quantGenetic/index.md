@@ -86,6 +86,7 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
+- tmp[[HTML]](https://www.dropbox.com/scl/fi/ltma7hqk4arw5w5f7xzmf/24_BiometricModel.html?rlkey=vptr5f27631eh99q1vt5im47s&st=yzo8xfqy&dl=0)
 
 - Theory: Dominance deviation and the Biometric Model
 - Practice: a toy example of simulating a simple regression model in R and the Biometric Model
