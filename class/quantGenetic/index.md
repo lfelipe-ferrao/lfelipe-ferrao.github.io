@@ -85,7 +85,7 @@ It is an attempt to organize and make available to any student the class notes u
 **4. Biometric Model**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
-- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week6_BiometricModel_24.html)
+- Download [[html]](https://downgit.github.io/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/24_BiometricModel.html)
 - tmp[[HTML]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/24_BiometricModel.html)
 
 - Theory: Dominance deviation and the Biometric Model
