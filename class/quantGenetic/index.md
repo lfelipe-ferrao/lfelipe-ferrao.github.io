@@ -112,6 +112,9 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Resemblance between relatives, pedigree matrix and genetic design
 - Practice:  Progenie test experiments using half-sib and full-sibs. `AGHmatrix` package.
 
+- Extra: 
+  - Genetic models using family information [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week7_24_FM.html)
+
 **7. Pedigree Analysis**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8_2022.html)
