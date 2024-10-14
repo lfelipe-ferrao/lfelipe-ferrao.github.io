@@ -115,13 +115,16 @@ It is an attempt to organize and make available to any student the class notes u
 - Extra: 
   - Genetic models using family information [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week7_24_FM.html)
 
-**7. Pedigree Analysis**
+**7. Pedigree Analysis and The Animal Model**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8_2022.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8_2022.html)
 
 - Theory: Theoretical background on BLUPs
 - Practice:  Half sib family (tree data set) and animal model with deep pedigree (pig data set)
+
+- Extra: 
+  - Introduction to Henderson's Mixed Model Equation [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week8_24_MME.html)
 
 **8. Response to Selection**
 
