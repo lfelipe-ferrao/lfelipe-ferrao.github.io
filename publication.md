@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- **Ferrão, LFV**.; Azevedo, C.; Sim, C.; Munoz, PR.; [A consumer-oriented approach to define breeding targets for molecular breeding]([https://academic.oup.com/hr/article/11/10/uhae233/7738310](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20254)). New Phytologist. 2024
+
 - **Ferrão, LFV**.; Azevedo, C.; Benevenuto, J.; Mengist, MF.; Luby, C.; Pottorff, M.; Casorzo, GP.; Mackey, T.; Ann Lila, M.; Giongo, L.; Bassil, N.; Perkins-Veazie, P.; Iorizzo, M.; Munoz, PR.; [Inference of the genetic basis of fruit texture in highbush blueberries using genome-wide association analyses](https://academic.oup.com/hr/article/11/10/uhae233/7738310). Horticulture Research. 2024
 
 - Canale,s E., Gallardo, RK.; Iorizzo, M.; Muñoz, PR; **Ferrão, LFV.;** Luby, C.;  Bassil, N.; Pottorff, M.; Perkins, P.; Sandefur, P.;  Colonna, A.; Sims, C.; [Willingness to Pay for Blueberries: Sensory Attributes, Fruit Quality Traits, and Consumers’ Characteristics](https://journals.ashs.org/hortsci/view/journals/hortsci/59/8/article-p1207.xml). HortScience, 2024
