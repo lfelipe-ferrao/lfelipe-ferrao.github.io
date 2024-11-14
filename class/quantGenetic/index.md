@@ -163,8 +163,9 @@ It is an attempt to organize and make available to any student the class notes u
 
 - Extra:
     - FW Regression [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_24_FW.html)
-  - AMMI and Biplot Analyses [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_2022a.html)
+  - AMMI and Biplot Analyses [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/classAMMI_24.html)
   - Factor Analytic and Mixed Models [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_2022b.html)
+  - Personal notes about GxE when reporting the results in papers [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/Notes_GxE.html)
 
 **12. Genomic Selection**
 
