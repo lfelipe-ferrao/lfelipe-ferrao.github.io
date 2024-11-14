@@ -161,7 +161,8 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Finlay and Wilkinson Regression and mixed model
 - Practice: MET analysis for wheat and pine data sets 
 
-- Extra: 
+- Extra:
+    - FW Regression [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_24_FW.html)
   - AMMI and Biplot Analyses [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_2022a.html)
   - Factor Analytic and Mixed Models [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/quantGenetic/week11_2022b.html)
 
