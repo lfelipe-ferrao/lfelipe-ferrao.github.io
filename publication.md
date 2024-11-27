@@ -18,7 +18,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 - Adunola, P.; Tavares Flores, E.;  Azevedo, C.; Casorzo, G.; Ghimere, L.;  **Ferrão, LFV**.; Munoz, PR.; [GPhenomic-assisted selection: Assessment of the potential of
 near-infrared spectroscopy for blueberry breeding](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.70010#).The Plant Genome. 2024
-- 
+
 - **Ferrão, LFV**.; Azevedo, C.; Sim, C.; Munoz, PR.; [A consumer-oriented approach to define breeding targets for molecular breeding](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20254). New Phytologist. 2024
 
 - **Ferrão, LFV**.; Azevedo, C.; Benevenuto, J.; Mengist, MF.; Luby, C.; Pottorff, M.; Casorzo, GP.; Mackey, T.; Ann Lila, M.; Giongo, L.; Bassil, N.; Perkins-Veazie, P.; Iorizzo, M.; Munoz, PR.; [Inference of the genetic basis of fruit texture in highbush blueberries using genome-wide association analyses](https://academic.oup.com/hr/article/11/10/uhae233/7738310). Horticulture Research. 2024
