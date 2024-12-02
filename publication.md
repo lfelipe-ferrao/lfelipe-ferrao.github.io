@@ -16,8 +16,13 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
-- Adunola, P.; Tavares Flores, E.;  Azevedo, C.; Casorzo, G.; Ghimere, L.;  **Ferrão, LFV**.; Munoz, PR.; [GPhenomic-assisted selection: Assessment of the potential of
-near-infrared spectroscopy for blueberry breeding](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.70010#).The Plant Genome. 2024
+- Gonçalves, JFC.; Nascimento, GO.; Carvalho, JC.; Santos, AS.; Rodrigues, DP.; Germano, TA.; Nunes, MS.; Souza, DP.; Cavalcanti, JHF.; Ramos, MV.;  **Ferrão, LFV**, Martins, K.; [Lipid profiles and DNA barcoding markers reveal the genetic delimitation between species of the Carapa genus native from the Amazon](https://www.sciencedirect.com/science/article/pii/S0305197824001406). Biochemical Systematics and Ecology. 2024
+
+- Peixoto, MA.; Amadeu, RR.; Bhering, LL.; **Ferrão, LFV**.; Munoz, PR.; Resende Jr.; [SimpleMating: R-package for prediction and optimization of
+breeding crosses using genomic selection](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20533). The Plant Genome. 2024
+
+- Adunola, P.; Tavares Flores, E.;  Azevedo, C.; Casorzo, G.; Ghimere, L.;  **Ferrão, LFV**.; Munoz, PR.; [Phenomic-assisted selection: Assessment of the potential of
+near-infrared spectroscopy for blueberry breeding](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.70010#).The Plant Phenome. 2024
 
 - **Ferrão, LFV**.; Azevedo, C.; Sim, C.; Munoz, PR.; [A consumer-oriented approach to define breeding targets for molecular breeding](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20254). New Phytologist. 2024
 
