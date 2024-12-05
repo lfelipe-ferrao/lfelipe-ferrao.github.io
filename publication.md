@@ -16,6 +16,8 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2024
 
+- Sipowicz, P.; Andrade, MHML.; Fernandes Filho, CC.; Benevenuto, J.; Munoz, P.; **Ferrão, LFV**.; Resende Jr, MFR; Messina, C.; Rios, E.; [Optimization of high-throughput marker systems for genomic prediction in alfalfa family bulks](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20526). The Plant Genome. 2024
+
 - Gonçalves, JFC.; Nascimento, GO.; Carvalho, JC.; Santos, AS.; Rodrigues, DP.; Germano, TA.; Nunes, MS.; Souza, DP.; Cavalcanti, JHF.; Ramos, MV.;  **Ferrão, LFV**, Martins, K.; [Lipid profiles and DNA barcoding markers reveal the genetic delimitation between species of the Carapa genus native from the Amazon](https://www.sciencedirect.com/science/article/pii/S0305197824001406). Biochemical Systematics and Ecology. 2024
 
 - Peixoto, MA.; Amadeu, RR.; Bhering, LL.; **Ferrão, LFV**.; Munoz, PR.; Resende Jr.; [SimpleMating: R-package for prediction and optimization of
