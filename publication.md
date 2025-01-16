@@ -14,6 +14,10 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## Articles
 
+## 2025
+
+- Gerard, D.; Thakkar, M.; **Ferrão, LFV**.; [Tests for segregation distortion in tetraploid F1 populations](https://link.springer.com/article/10.1007/s00122-025-04816-z). Theoretical and Applied Genetics. 2025
+
 ## 2024
 
 - Sipowicz, P.; Andrade, MHML.; Fernandes Filho, CC.; Benevenuto, J.; Munoz, P.; **Ferrão, LFV**.; Resende Jr, MFR; Messina, C.; Rios, E.; [Optimization of high-throughput marker systems for genomic prediction in alfalfa family bulks](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20526). The Plant Genome. 2024
