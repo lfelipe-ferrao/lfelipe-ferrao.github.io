@@ -16,6 +16,12 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2025
 
+- Rocha, RB.; Suela, MS.; Comerio, M.; Riva Souza, EM.; Senra, JFB.; Ferrão, MAG.; FErrão, RG.; Almeida da Fonseca, AF.; Verdin Filho, AC.; Volpi, PS.; **Ferrão, LFV**; Enciso-Rodriguez, F.; [GGenomic‑assisted selection to guide mate allocation and leverage
+hybrid vigor in Coffea canephora](https://link.springer.com/article/10.1007/s11295-025-01705-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250630&utm_content=10.1007%2Fs11295-025-01705-w). Tree Genetics and Genomes. 2025
+
+- Cromie, J.; Cullen, RP.; Azevedo, CF.; **Ferrão, LFV**; Enciso-Rodriguez, F.; Benevenuto, J.; Munoz, PR.; [Genomic prediction and association analyses for
+breeding parthenocarpic blueberries](https://academic.oup.com/hr/article/12/7/uhaf086/8088451)/ Horticulture Research. 2025
+
 - Gerard, D.; Thakkar, M.; **Ferrão, LFV**.; [Tests for segregation distortion in tetraploid F1 populations](https://link.springer.com/article/10.1007/s00122-025-04816-z). Theoretical and Applied Genetics. 2025
 
 ## 2024
