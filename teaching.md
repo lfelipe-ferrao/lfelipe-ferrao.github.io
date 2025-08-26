@@ -15,6 +15,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ### Classes
 
+- [HOS 6236 - Molecular Marker Assisted in Plant Breeding](class/mas/index.md)
 - [PCB6555 - Quantitative Genetics](class/quantGenetic/index.md)
 - [HOS 6932 - Survey of Breeding Tools and Methods](class/survey/index.md)
 - [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.md)
