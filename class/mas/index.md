@@ -54,3 +54,11 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Introduction to molecular markers applied to plant breeding
 - Practice: Simple SNP Calling tutorial using the BCFtools 
 
+**2. Linkage Mapping**
+
+- Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/LinkageMapping.html)
+- Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/LinkageMapping.html)
+
+- Theory: Introduction to linkage mapping
+- Practice: The use of `Onemap` in BC population
+- Other example: [Link from Cris Taniguti, Tutorial about Linkage Mapping with information from Reference Genomes](https://cristianetaniguti.github.io/Tutorials/Cornell_course/OneMap_Inbred.html#group-and-ordering) 
