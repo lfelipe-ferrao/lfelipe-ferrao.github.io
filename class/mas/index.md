@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logoMAS.png" />
+  <img src="./MAS.png" />
 </p>
 
 
