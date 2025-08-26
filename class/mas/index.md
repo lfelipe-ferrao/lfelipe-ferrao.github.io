@@ -2,8 +2,6 @@
   <img src="./MAS.png" />
 </p>
 
-
-
 ## Instructors
 
 - Dr. Marcio Resende, (**Course coordinator**)\
