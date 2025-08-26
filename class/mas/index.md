@@ -16,7 +16,7 @@ Office Hours by appointment
 
 ## Course Description
 
-This course provides theory, methods and procedures required to apply molecular information in plant breeding programs. The course will be based on lectures and multiple hands-on activities that apply what is learned. Frequent evaluations will occur during the semester by topic (see below). Students are required to attend classes physically.
+This course provides theory, methods, and procedures required to apply molecular information in plant breeding programs. The course will be based on lectures and multiple hands-on activities that apply what is learned. Frequent evaluations will occur during the semester by topic (see below). Students are required to attend classes physically.
 
 ## Course Objectives
 The course goal is to familiarize students with the application of molecular information to plant breeding. By the end of the semester students should be able to describe current methods for mapping quantitative trait loci (QTL), Genome-wide association (GWAS), marker-assisted selection (MAS), and Genomic Selection (GS). The course will also review the applications of biotechnology to breeding programs. Students should be able to describe the advantages and disadvantages of the different methods covered in the course. Students should also be able to list the biotechnology methods applied to plant breeding. Ultimately, students should be able to identify what method and what strategy should be applied depending on the species, the breeding goals, the population and the timeframe.
@@ -46,11 +46,11 @@ It is an attempt to organize and make available to any student the class notes u
 [Download] = link for downloading the files. 
 ```
 
-**1. Introduction to Molecular Markers**
+**1. Introduction to Variant Discovery**
 
 - Hands-on [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/week0_mas.html)
 - Download [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/week0_mas.html)
 
-- Theory: Introduction to molecular markers
+- Theory: Introduction to molecular markers applied to plant breeding
 - Practice: Simple SNP Calling tutorial using the BCFtools 
 
