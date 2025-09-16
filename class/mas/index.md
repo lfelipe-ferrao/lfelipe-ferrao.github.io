@@ -66,10 +66,10 @@ It is an attempt to organize and make available to any student the class notes u
 **3. QTL Mapping**
 
 - Introduction to QTL mapping [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/1.Introduction_QTLMapping.html)
-- Linear Models in a nutshell [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/1.IntroductionLinearModels.html)
+- Linear Models in a nutshell [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/1.IntroductionLinearModels.html)
 - Single Marker Regression [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/2.Single_QTLMapping.html)
-- Interval Mapping [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/3.Interval_QTLMapping.html)
-- Composite Interval Mapping [[html]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/4.Composite_QTLMapping.html)
+- Interval Mapping [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/3.Interval_QTLMapping.html)
+- Composite Interval Mapping [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/4.Composite_QTLMapping.html)
 
 - Theory: Introduction to QTL mapping and the use of single and interval mapping approaches
 - Practice: The use of `r/QTL` package in F2 mice population
