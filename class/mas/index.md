@@ -71,7 +71,13 @@ It is an attempt to organize and make available to any student the class notes u
 - Interval Mapping [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/3.Interval_QTLMapping.html)
 - Composite Interval Mapping [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/4.Composite_QTLMapping.html)
 
-- Theory: Introduction to QTL mapping and the use of single and interval mapping approaches
+- Theory: QTL mapping and the use of single and interval mapping approaches
 - Practice: The use of `r/QTL` package in F2 mice population
 
+**4. Bulk Segregant Analysis (BSA)**
+
+- BSA-seq [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/BSA.html)
+
+- Theory: Introduction to BSA analysis and importance for QTL mapping
+- Practice: The use of `QTLseqr` package in a rice example
 
