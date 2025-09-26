@@ -16,7 +16,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2025
 
-- Ghimire, L.; Adunola, P.; Harmon, PF.; Azevedo, CF.; Schultz, TJ.; Leme, B.; Enciso-Rodriguez, F.; Benevenuto, J.; **Ferrão, LFV**.; Munoz, PM.; [Genome-wide association study reveals candidate loci for resistance to anthracnose in blueberry](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkaf187/8248915?utm_source=advanceaccess&utm_campaign=g3journal&utm_medium=email&login=true). G3 - Genes | Genomes| Genetics. 2025 
+- Ghimire, L.; Adunola, P.; Harmon, PF.; Azevedo, CF.; Schultz, TJ.; Leme, B.; Enciso-Rodriguez, F.; Benevenuto, J.; **Ferrão, LFV**.; Munoz, PM.; [Genome-wide association study reveals candidate loci for resistance to anthracnose in blueberry](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkaf187/8248915?utm_source=advanceaccess&utm_campaign=g3journal&utm_medium=email&login=true). G3 - Genes, Genomes, Genetics. 2025 
 
 - Rocha, RB.; Suela, MS.; Comerio, M.; Riva Souza, EM.; Senra, JFB.; Ferrão, MAG.; FErrão, RG.; Almeida da Fonseca, AF.; Verdin Filho, AC.; Volpi, PS.; **Ferrão, LFV** [Genomic‑assisted selection to guide mate allocation and leverage
 hybrid vigor in Coffea canephora](https://link.springer.com/article/10.1007/s11295-025-01705-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250630&utm_content=10.1007%2Fs11295-025-01705-w). Tree Genetics and Genomes. 2025
