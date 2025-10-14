@@ -81,3 +81,19 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: Introduction to BSA analysis and importance for QTL mapping
 - Practice: The use of `QTLseqr` package in a rice example
 
+**5. Genome-wide association analysis (GWAS)**
+
+- Introduction to GWAS analysis [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/IntroductionGWAS.html)
+- Principal Components and Genetic Relatedness [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/PCA_Kinship.html)
+- Population Structure [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/PopStructure.html)
+- Statistical Power [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/StatisticalPower.html)
+- GWAS modelling [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GWASmodels.html)
+- geGWAS: gene-by-environment interaction [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/genebyenviroment.html)
+- Workshop GWAS in polyploid species [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/genebyenviroment.html)
+- Statistical Fine Mapping (in progress)
+- Imputation (in progress)
+- Multiple testing (in progress)
+- Genomic heritability (in progress)
+
+- Theory: statistical and genomic aspects related to GWAS implementation
+- Practice: the use of several methods for real and simulated analysis
