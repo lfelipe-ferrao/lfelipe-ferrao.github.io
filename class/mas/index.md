@@ -95,6 +95,8 @@ It is an attempt to organize and make available to any student the class notes u
 - GWAS modelling [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GWASmodels.html)
 - geGWAS: gene-by-environment interaction [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/genebyenvironment.html)
 - Workshop GWAS in polyploid species [[html]](https://lfelipe-ferrao.github.io/class/GWAS/)
+
+*In progress...*
 - Statistical Fine Mapping (in progress)
 - Imputation (in progress)
 - Multiple testing (in progress)
@@ -110,6 +112,14 @@ It is an attempt to organize and make available to any student the class notes u
 - GBLUP vs. rrBLUP: two sides from the same coin [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GBLUP_rrBLUP.html)
 - One Stage vs. Two Stages Analysis [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/OnestagevsTwostage.html)
 
+*In progress...*
+- Elements that affect predictive accuracy (in progress)
+- Cross-validation methods (in progress)
+- Enviromics and genotype-by-enviroment (in progress)
+- Multi-trait GS (in progress)
+- Optimizing training and testing populations (in progress)
+- Phenomic selection (in progress)
+- Non-additive models for genomic prediction (in progress)
 
-- Theory: statistical and genomic aspects related to GWAS implementation
+- Theory: statistical and genomic aspects related to GS implementation
 - Practice: the use of several methods for real and simulated analysis
