@@ -9,6 +9,11 @@
 mresende@ufl.edu\
 Office Hours by appointment
 
+- Dr. Marco Peixoto\
+2135 Fifield Hall\
+deamorimpeixotom@ufl.edu\
+Office Hours by appointment
+
 - Dr. Felipe Ferrão\
 Paul Lyrene Blueberry Research Building \
 lferrao@ufl.edu\
@@ -94,6 +99,17 @@ It is an attempt to organize and make available to any student the class notes u
 - Imputation (in progress)
 - Multiple testing (in progress)
 - Genomic heritability (in progress)
+
+- Theory: statistical and genomic aspects related to GWAS implementation
+- Practice: the use of several methods for real and simulated analysis
+
+**6. Genomic Prediction**
+
+- Introduction to Linear Models using Bayesian framework [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/IntroductionBayesianLinearModels.html)
+- Bayesian Alphabet for Whole-genome prediction [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/BayesianAlphabet.html)
+- GBLUP vs. rrBLUP: two sides from the same coin [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GBLUP_rrBLUP.html)
+- One Stage vs. Two Stages Analysis [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/OnestagevsTwostage.html)
+
 
 - Theory: statistical and genomic aspects related to GWAS implementation
 - Practice: the use of several methods for real and simulated analysis
