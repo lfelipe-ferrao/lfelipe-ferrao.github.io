@@ -103,7 +103,7 @@ It is an attempt to organize and make available to any student the class notes u
 - Genomic heritability (in progress)
 
 - Theory: statistical and genomic aspects related to GWAS implementation
-- Practice: the use of several methods for real and simulated analysis
+- Practice: the use of several methods implemented in ` GWASpoly` and ` GAPIT` for real and simulated analysis
 
 **6. Genomic Prediction**
 
@@ -122,4 +122,4 @@ It is an attempt to organize and make available to any student the class notes u
 - Non-additive models for genomic prediction (in progress)
 
 - Theory: statistical and genomic aspects related to GS implementation
-- Practice: the use of several methods for real and simulated analysis
+- Practice: the use of frequentist and Bayesian methods implemented in `rrBLUP`, ` BGLR`, `sommer`, `asremlR` for analysis in different data set including coffee, potato and wheat. 
