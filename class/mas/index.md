@@ -111,11 +111,11 @@ It is an attempt to organize and make available to any student the class notes u
 - Bayesian Alphabet for Whole-genome prediction [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/BayesianAlphabet.html)
 - GBLUP vs. rrBLUP: two sides from the same coin [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GBLUP_rrBLUP.html)
 - One Stage vs. Two Stages Analysis [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/OnestagevsTwostage.html)
+- Enviromics and genotype-by-enviroment (by Marco Peixoto) [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GxE_2025.html)
 
 *In progress...*
 - Elements that affect predictive accuracy (in progress)
 - Cross-validation methods (in progress)
-- Enviromics and genotype-by-enviroment (in progress)
 - Multi-trait GS (in progress)
 - Optimizing training and testing populations (in progress)
 - Phenomic selection (in progress)
