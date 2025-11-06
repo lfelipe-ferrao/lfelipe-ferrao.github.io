@@ -122,4 +122,11 @@ It is an attempt to organize and make available to any student the class notes u
 - Non-additive models for genomic prediction (in progress)
 
 - Theory: statistical and genomic aspects related to GS implementation
-- Practice: the use of frequentist and Bayesian methods implemented in `rrBLUP`, ` BGLR`, `sommer`, `asremlR` for analysis in different data set including coffee, potato and wheat. 
+- Practice: the use of frequentist and Bayesian methods implemented in `rrBLUP`, ` BGLR`, `sommer`, `asremlR` for analysis in different data set including coffee, potato and wheat.
+
+**7. Simulations in Plant Breeding**
+
+- AlphaSim to simulate real breeding programs (by Marco Peixoto) [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/Class_One_Functions.html)
+
+- Theory: simulating breeding populations and defining number of crosses and individuals per crosses
+- Practice: the use of `AlphaSim` R package in maize
