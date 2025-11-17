@@ -94,7 +94,6 @@ It is an attempt to organize and make available to any student the class notes u
 - Statistical Power [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/StatisticalPower.html)
 - GWAS modelling [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GWASmodels.html)
 - geGWAS: gene-by-environment interaction [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/genebyenvironment.html)
-- Workshop GWAS in polyploid species [[html]](https://lfelipe-ferrao.github.io/class/GWAS/)
 
 *In progress...*
 - Statistical Fine Mapping (in progress)
@@ -124,9 +123,26 @@ It is an attempt to organize and make available to any student the class notes u
 - Theory: statistical and genomic aspects related to GS implementation
 - Practice: the use of frequentist and Bayesian methods implemented in `rrBLUP`, ` BGLR`, `sommer`, `asremlR` for analysis in different data set including coffee, potato and wheat.
 
-**7. Simulations in Plant Breeding**
+**7. Simulation in Plant Breeding (by Marco Peixoto)**
 
-- AlphaSim to simulate real breeding programs (by Marco Peixoto) [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/Class_One_Functions.html)
+- AlphaSim to simulate real breeding programs[[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/Class_One_Functions.html)
 
 - Theory: simulating breeding populations and defining number of crosses and individuals per crosses
 - Practice: the use of `AlphaSim` R package in maize
+
+- **8. Mate allocation (by Marco Peixoto)**
+
+- Cross Prediction [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/mas/GS_SM.html)
+
+- Theory: combining genomic selection, cross optimization and mate allocation
+- Practice: the use of `SimpleMating` R package in simulated data sets
+
+- **9. Genetic tools for polyploid analysis**
+
+-  Dosage calling in polyploids [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/GWAS/2.Genomics.html)
+-  GWAS in autotetraploid [[html]](https://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/GWAS/3.gwas.html)
+
+- Theory: importance of allele dosage and polyploid models for GWAS
+- Practice: the use of `GWASpoly` R package in blueberry
+
+  
