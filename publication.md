@@ -16,7 +16,7 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2025
 
-- Pokou, D.; GBA, KMK.; Legnate, H.; Suela, MS.; Montagnon, C.; **Ferrão, LFV** [Genomic insights into population structure and predictive breeding for climate-resilient coffee]([https://link.springer.com/article/10.1007/s11295-025-01705-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250630&utm_content=10.1007%2Fs11295-025-01705-w](https://www.nature.com/articles/s41437-025-00810-9.epdf?sharing_token=l00cRVhMclEWiFAyw2cJDNRgN0jAjWel9jnR3ZoTv0NO1t0TpmCj2_rEimlByFDJ09bZM6D3dvgQzyCZmgLHapfnHxeLL3t0vUFWofXZjqOXD4tfDbjawb0k5Q82EwYPQIzN1KP3li_CcsTNiuOTRk0ddt1Y7pP5fl8HMUA5UCM%3D)). Heredity. 2025
+- Pokou, D.; GBA, KMK.; Legnate, H.; Suela, MS.; Montagnon, C.; **Ferrão, LFV** [Genomic insights into population structure and predictive breeding for climate-resilient coffee](https://www.nature.com/articles/s41437-025-00810-9.epdf?sharing_token=l00cRVhMclEWiFAyw2cJDNRgN0jAjWel9jnR3ZoTv0NO1t0TpmCj2_rEimlByFDJ09bZM6D3dvgQzyCZmgLHapfnHxeLL3t0vUFWofXZjqOXD4tfDbjawb0k5Q82EwYPQIzN1KP3li_CcsTNiuOTRk0ddt1Y7pP5fl8HMUA5UCM%3D). Heredity. 2025
 
 - Ghimire, L.; Adunola, P.; Harmon, PF.; Azevedo, CF.; Schultz, TJ.; Leme, B.; Enciso-Rodriguez, F.; Benevenuto, J.; **Ferrão, LFV**.; Munoz, PM.; [Genome-wide association study reveals candidate loci for resistance to anthracnose in blueberry](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkaf187/8248915?utm_source=advanceaccess&utm_campaign=g3journal&utm_medium=email&login=true). G3 - Genes, Genomes, Genetics. 2025 
 
