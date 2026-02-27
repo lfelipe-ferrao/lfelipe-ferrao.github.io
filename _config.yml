@@ -1,4 +1,4 @@
-title:            Felipe Ferrão
+tentitle:            Felipe Ferrão
 description:      description
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              https://statgen-esalq.github.io
@@ -54,7 +54,7 @@ links:
   - title: Teaching
     url: /teaching/
   - title: Extension
-    url: /contact/
+    url: /extension/
   - title: Softwares
     url: /softwares/
   - title: Contact
