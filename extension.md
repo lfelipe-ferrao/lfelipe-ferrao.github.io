@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /extension/
-title: Teaching
+title: Extension
 description: "Extension"
 toc: true
 modified: 2016-06-07
