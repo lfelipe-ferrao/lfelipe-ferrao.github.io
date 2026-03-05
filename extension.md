@@ -26,16 +26,21 @@ Below are selected press releases and outreach materials highlighting my researc
 
 ### 2025
 
-- Fox TV. Florida researchers are planting coffee in Pierson. Will it grow successfully? [[video link]](https://www.wesh.com/article/florida-researchers-planting-coffee-pierson/63412467)
+- Fox TV. Florida researchers are planting **coffee** in Pierson. Will it grow successfully? [[video link]](https://www.wesh.com/article/florida-researchers-planting-coffee-pierson/63412467)
 - UF/IFAS blog.  **Acerola** cherry could be a new, nutritious crop for Florida [[text link]]([https://blogs.ifas.ufl.edu/news/2023/06/05/coffee-research-in-florida/](https://blogs.ifas.ufl.edu/news/2025/08/14/acerola-cherry-could-be-a-new-nutritious-crop-for-florida/))
+- A multi-omic roadmap to understand **blueberry** flavor [[youtube link]](https://www.youtube.com/watch?v=WfYryIfxPvU&t=26s)
 
 ### 2024
 
 - UF/IFAS blog. Coffee information [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7272276575042048002/)
 - UF/IFAS blog.  UF scientists study how to bring you ‘climate-smart coffee’[[text link]](https://blogs.ifas.ufl.edu/news/2024/07/25/uf-scientists-study-how-to-bring-you-climate-smart-coffee/)
-- News Miami. ‘Can we grow coffee in Florida successfully?’: UF researchers set to harvest beans from plants in Redlands [[video link]](https://wsvn.com/news/7spotlight/can-we-grow-coffee-in-florida-successfully-uf-researchers-set-to-harvest-beans-from-plants-in-redlands/) 
+- News Miami. ‘Can we grow coffee in Florida successfully?’: UF researchers set to harvest beans from plants in Redlands [[video link]](https://wsvn.com/news/7spotlight/can-we-grow-coffee-in-florida-successfully-uf-researchers-set-to-harvest-beans-from-plants-in-redlands/)
+- Training: Genomic prediction in autotetraploid blueberry [[youtube link]](https://www.youtube.com/watch?v=_RQOsf-gSNc&t=2443s)
+- WCJB20. Tech Tuesday: Better Coffee [[video link]](https://www.wcjb.com/2024/02/13/tech-tuesday-better-coffee/)
 
 ### 2023
 
 - WCJB20. What’s Growing On?: UF tries growing coffee in the Sunshine State [[tv link]](https://www.wcjb.com/2023/07/27/whats-growing-uf-tries-growing-coffee-sunshine-state/)
 - UF/IFAS blog.  Now brewing: Coffee research in Florida.[[text link]](https://blogs.ifas.ufl.edu/news/2023/06/05/coffee-research-in-florida/)
+- Training: Hands-on Data Analysis Webinar [[youtube link]](https://www.youtube.com/watch?v=e3-qFpBb66s&t=4500s)
+- Training: Barcode as a breeding tool [[youtube video]](https://youtu.be/UBiMevG3sXY)
