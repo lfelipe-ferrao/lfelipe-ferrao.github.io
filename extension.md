@@ -21,6 +21,8 @@ Below are selected press releases and outreach materials highlighting my researc
 
 ### 2026
 
+- Alligator Newsletter. Everyone gets a bite of ‘Flavors of Florida’ tasting event [[text link]](https://www.alligator.org/article/2026/03/everyone-gets-a-bite-of-flavors-of-florida-tasting-event)
+- WUFT. News and Public Media for North Central Florida. IFAS Flavors of Florida 2026 [[podcast link]](https://www.wuft.org/podcast/tell-me-about-it/2026-02-15/ifas-flavors-of-florida-2026)
 - Fox 4. Glades County farmer works with University of Florida researchers to make coffee a viable crop in the state [[video link]](https://www.fox4now.com/news/local-news/glades-county/glades-county-farmer-works-with-university-of-florida-researchers-to-make-coffee-a-viable-crop-in-the-state#google_vignette)
 - UF/HOS blog. Brewing Innovation: Developing Coffee as a Viable Florida Crop [[text link]](https://blogs.ifas.ufl.edu/hosdept/2026/01/22/coffee-genomics-florida-breeding/)
 
