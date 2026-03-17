@@ -29,7 +29,7 @@ Below are selected press releases and outreach materials highlighting my researc
 ### 2025
 
 - Fox TV. Florida researchers are planting **coffee** in Pierson. Will it grow successfully? [[video link]](https://www.wesh.com/article/florida-researchers-planting-coffee-pierson/63412467)
-- UF/IFAS blog.  **Acerola** cherry could be a new, nutritious crop for Florida [[text link]](https://blogs.ifas.ufl.edu/news/2023/06/05/coffee-research-in-florida/](https://blogs.ifas.ufl.edu/news/2025/08/14/acerola-cherry-could-be-a-new-nutritious-crop-for-florida/)
+- UF/IFAS blog.  **Acerola** cherry could be a new, nutritious crop for Florida [[text link]](https://blogs.ifas.ufl.edu/news/2025/08/14/acerola-cherry-could-be-a-new-nutritious-crop-for-florida/)
 - A multi-omic roadmap to understand **blueberry** flavor [[youtube link]](https://www.youtube.com/watch?v=WfYryIfxPvU&t=26s)
 
 ### 2024
