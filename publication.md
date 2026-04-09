@@ -16,6 +16,10 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2026
 
+- Tavares Flores, E.; Spicer, L.; Souza, EM.; Ferrão, MAG.; Senra, JF.; Azevedo, C.; Munoz, PR.; Tieman, D.; Voiniciu, C.; **Ferrão, LFV**. [Genome association of carbohydrate metabolites provides new insights toward functional breeding in coffee](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.70239). The Plant Genome. 2026
+
+- Suela, MM.; Castro, CR.; Ribeiro, W.; Muno, PR.; Singh, J.; Sarkosh, A.; Crane, J.; **Ferrão, LFV.** [First assessment of agronomical performance of Coffea arabica in the southern US conditions](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/csc2.70270). Crop Science. 2026
+
 - Sleper, JA.; Azevedo, CF.; **Ferrão, LFV**.; Whitaker, VM.; [Using genomic selection to examine subgenome dominance and epistasis in allopolyploid strawberry](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.70204). The Plant Genome. 2026
 
 # 2025
