@@ -16,7 +16,9 @@ tags: [people, undergrads, MSc, PhD, postdocs]
 
 ## 2026
 
-- Li, X.;  Tieman, DM.; Huang, Y.; **Ferrão, LFV.**; Sapkota, M.; Lang, Z.; Kuhalskaya, Anastasiya.; Hao, V.; Liu, Pu.; Chen, J.;  Alseekh, S.; Resende Jr, MFR.; van der Knaap, E.;  Yin, X.; Klee, H.; The genetic architecture of tomato flavor variation through crop domestication and improvement. PNAS. 2026
+- Ghimire, L.; Flor, N.; Adunola, P.;  Harmon, PF.; Enciso-Rodriguez, F.;  Benevenuto, J.; **Ferrão, LFV.**;  Munoz, PR. [Genetic insights into bacterial wilt resistance using genomic prediction and association mapping in blueberry](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.70283). The Plant Genome. 2026
+
+- Li, X.;  Tieman, DM.; Huang, Y.; **Ferrão, LFV.**; Sapkota, M.; Lang, Z.; Kuhalskaya, Anastasiya.; Hao, V.; Liu, Pu.; Chen, J.;  Alseekh, S.; Resende Jr, MFR.; van der Knaap, E.;  Yin, X.; Klee, H.; [The genetic architecture of tomato flavor variation through crop domestication and improvement](https://www.pnas.org/doi/abs/10.1073/pnas.2610136123). PNAS. 2026
 
 - Tavares Flores, E.; Spicer, L.; Souza, EM.; Ferrão, MAG.; Senra, JF.; Azevedo, C.; Munoz, PR.; Tieman, D.; Voiniciu, C.; **Ferrão, LFV**. [Genome association of carbohydrate metabolites provides new insights toward functional breeding in coffee](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.70239). The Plant Genome. 2026
 
